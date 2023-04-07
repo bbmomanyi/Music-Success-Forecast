@@ -1,0 +1,1001 @@
+artist_name,track_name,genres,followers,popularity,duration,release_date,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_genre
+Taylor Swift,Anti-Hero,['pop'],71002649,94,200.69,2022-10-21,0.637,0.643,0.0519,0.13,1.8e-06,0.142,0.533,97.008,pop
+Taylor Swift,All Of The Girls You Loved Before,['pop'],71002649,89,221.407,2019-08-23,0.718,0.467,0.0398,0.707,6.92e-05,0.126,0.396,95.96,pop
+Taylor Swift,Lavender Haze,['pop'],71002649,88,202.395,2022-10-21,0.733,0.436,0.08,0.258,0.000573,0.157,0.0976,96.985,pop
+Taylor Swift,Blank Space,['pop'],71002649,78,231.826,2014-10-27,0.753,0.678,0.0644,0.085,1.64e-06,0.13,0.583,96.006,pop
+Taylor Swift,Don’t Blame Me,['pop'],71002649,87,236.413,2017-11-10,0.615,0.534,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,pop
+Taylor Swift,cardigan,['pop'],71002649,86,239.56,2020-07-24,0.613,0.581,0.0424,0.537,0.000345,0.25,0.551,130.033,pop
+Taylor Swift,Style,['pop'],71002649,77,231.0,2014-10-27,0.598,0.786,0.0383,0.00253,0.0016,0.117,0.456,95.019,pop
+Taylor Swift,Midnight Rain,['pop'],71002649,85,174.782,2022-10-21,0.643,0.363,0.0767,0.69,5.17e-05,0.115,0.23,139.865,pop
+Taylor Swift,Cruel Summer,['pop'],71002649,86,178.426,2019-08-23,0.552,0.702,0.157,0.117,2.06e-05,0.105,0.564,169.994,pop
+Taylor Swift,Enchanted,['pop'],71002649,76,352.186,2010-10-25,0.455,0.623,0.0288,0.0739,0.000424,0.146,0.208,163.893,pop
+Drake,Rich Flex,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,91,239.359,2022-11-04,0.561,0.52,0.244,0.0503,1.86e-06,0.355,0.424,153.15,pop
+Drake,Jimmy Cooks (feat. 21 Savage),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,87,218.364,2022-06-17,0.529,0.673,0.175,0.000307,2.41e-06,0.093,0.366,165.921,pop
+Drake,One Dance,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,86,173.986,2016-05-06,0.792,0.625,0.0536,0.00776,0.0018,0.329,0.37,103.967,pop
+Drake,WAIT FOR U (feat. Drake & Tems),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,86,189.893,2022-04-29,0.463,0.642,0.34,0.314,0.0,0.0686,0.339,83.389,pop
+Drake,God's Plan,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,84,198.973,2018-06-29,0.754,0.449,0.109,0.0332,8.29e-05,0.552,0.357,77.169,pop
+Drake,Spin Bout U,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,83,214.588,2022-11-04,0.773,0.701,0.0512,0.01,0.0,0.163,0.203,129.963,pop
+Drake,Passionfruit,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,83,298.94,2017-03-18,0.809,0.463,0.0396,0.256,0.085,0.109,0.364,111.98,pop
+Drake,Knife Talk (with 21 Savage ft. Project Pat),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,242.965,2021-09-03,0.849,0.424,0.324,0.0635,0.0,0.0834,0.153,145.887,pop
+Drake,Fair Trade (with Travis Scott),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,291.175,2021-09-03,0.666,0.465,0.26,0.0503,0.0,0.215,0.292,167.937,pop
+Drake,Wants and Needs (feat. Lil Baby),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,192.956,2021-03-05,0.578,0.449,0.286,0.0618,2.17e-06,0.119,0.1,136.006,pop
+The Weeknd,Die For You (with Ariana Grande) - Remix,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,82,232.857,2023-03-14,0.575,0.5,0.0707,0.227,0.0,0.335,0.506,67.033,pop
+The Weeknd,Creepin' (with The Weeknd & 21 Savage),"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,96,221.52,2022-12-02,0.715,0.62,0.0484,0.417,0.0,0.0822,0.172,97.95,pop
+The Weeknd,Die For You,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,90,260.253,2016-11-24,0.586,0.525,0.0615,0.111,0.0,0.134,0.508,133.629,pop
+The Weeknd,Starboy,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,92,230.453,2016-11-25,0.679,0.587,0.276,0.141,6.35e-06,0.137,0.486,186.003,pop
+The Weeknd,Blinding Lights,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,91,200.04,2020-03-20,0.514,0.73,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,pop
+The Weeknd,Save Your Tears,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,88,215.626,2020-03-20,0.68,0.826,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,pop
+The Weeknd,I Was Never There,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,89,241.066,2018-03-30,0.323,0.737,0.0338,0.142,0.000162,0.163,0.155,113.26,pop
+The Weeknd,Reminder,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,88,218.88,2016-11-25,0.706,0.505,0.193,0.142,0.0,0.164,0.388,160.053,pop
+The Weeknd,Call Out My Name,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,88,228.373,2018-03-30,0.461,0.593,0.0356,0.17,0.0,0.307,0.175,134.17,pop
+The Weeknd,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,"['canadian contemporary r&b', 'canadian pop', 'pop']",61964165,83,191.013,2020-03-20,0.65,0.825,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,pop
+SZA,Kill Bill,"['pop', 'r&b']",11652472,95,153.946,2022-12-08,0.644,0.735,0.0391,0.0521,0.144,0.161,0.418,88.98,pop
+SZA,Snooze,"['pop', 'r&b']",11652472,91,201.8,2022-12-09,0.559,0.551,0.132,0.141,0.0,0.11,0.392,143.008,pop
+SZA,Low,"['pop', 'r&b']",11652472,88,181.08,2022-12-09,0.698,0.546,0.0559,0.425,0.00314,0.16,0.335,145.044,pop
+SZA,Nobody Gets Me,"['pop', 'r&b']",11652472,87,180.853,2022-12-09,0.358,0.284,0.0285,0.805,0.0,0.183,0.276,99.796,pop
+SZA,Shirt,"['pop', 'r&b']",11652472,84,181.84,2022-12-09,0.848,0.512,0.102,0.228,0.00232,0.0879,0.572,120.009,pop
+SZA,Kiss Me More (feat. SZA),"['pop', 'r&b']",11652472,81,208.666,2021-06-25,0.764,0.705,0.0284,0.259,8.92e-05,0.12,0.781,110.97,pop
+SZA,Good Days,"['pop', 'r&b']",11652472,79,278.48,2022-12-09,0.461,0.651,0.0568,0.418,1.26e-05,0.782,0.383,121.07,pop
+SZA,All The Stars (with SZA),"['pop', 'r&b']",11652472,84,232.186,2018-02-09,0.698,0.633,0.0597,0.0605,0.000194,0.0926,0.552,96.924,pop
+SZA,Blind,"['pop', 'r&b']",11652472,83,150.72,2022-12-09,0.461,0.279,0.0373,0.911,0.0,0.205,0.599,114.225,pop
+SZA,Kill Bill - Sped Up Version,"['pop', 'r&b']",11652472,81,137.528,2023-01-13,0.678,0.798,0.0316,0.0383,0.269,0.126,0.509,99.941,pop
+Rihanna,We Found Love,"['barbadian pop', 'pop', 'urban contemporary']",54115995,84,215.226,2011-11-18,0.734,0.766,0.0383,0.025,0.00138,0.108,0.6,127.986,pop
+Rihanna,Umbrella,"['barbadian pop', 'pop', 'urban contemporary']",54115995,73,275.986,2007-01-01,0.583,0.829,0.134,0.00864,0.0,0.0426,0.575,174.028,pop
+Rihanna,Love On The Brain,"['barbadian pop', 'pop', 'urban contemporary']",54115995,86,224.0,2016-01-28,0.509,0.637,0.0471,0.0717,1.08e-05,0.0789,0.378,172.006,pop
+Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,"['barbadian pop', 'pop', 'urban contemporary']",54115995,78,196.52,2022-11-11,0.247,0.299,0.0315,0.899,0.0,0.131,0.172,177.115,pop
+Rihanna,Diamonds,"['barbadian pop', 'pop', 'urban contemporary']",54115995,76,225.146,2012-01-01,0.564,0.71,0.0461,0.00125,0.0,0.109,0.393,91.972,pop
+Rihanna,Only Girl (In The World),"['barbadian pop', 'pop', 'urban contemporary']",54115995,83,235.493,2010-01-01,0.789,0.706,0.0429,0.112,1.71e-05,0.0586,0.638,125.911,pop
+Rihanna,Stay,"['barbadian pop', 'pop', 'urban contemporary']",54115995,74,240.706,2012-01-01,0.621,0.31,0.0283,0.945,6.12e-05,0.117,0.125,111.893,pop
+Rihanna,Needed Me,"['barbadian pop', 'pop', 'urban contemporary']",54115995,83,191.6,2016-01-28,0.671,0.314,0.244,0.11,0.0,0.0825,0.296,110.898,pop
+Rihanna,S&M,"['barbadian pop', 'pop', 'urban contemporary']",54115995,81,243.6,2010-01-01,0.769,0.684,0.0411,0.0105,0.000125,0.0887,0.835,127.972,pop
+Rihanna,Where Have You Been,"['barbadian pop', 'pop', 'urban contemporary']",54115995,79,242.68,2011-11-18,0.719,0.847,0.0916,0.00201,0.0204,0.221,0.444,127.963,pop
+Lana Del Rey,Summertime Sadness,"['art pop', 'pop']",22316798,75,264.773,2012-01-01,0.566,0.647,0.0335,0.0477,0.0,0.121,0.22,111.96,pop
+Lana Del Rey,A&W,"['art pop', 'pop']",22316798,76,433.916,2023-03-24,0.421,0.247,0.143,0.665,0.375,0.115,0.139,161.468,pop
+Lana Del Rey,Snow On The Beach (feat. Lana Del Rey),"['art pop', 'pop']",22316798,81,256.124,2022-10-21,0.663,0.319,0.0375,0.69,0.000993,0.117,0.193,109.957,pop
+Lana Del Rey,Young And Beautiful,"['art pop', 'pop']",22316798,83,236.053,2013-01-01,0.324,0.416,0.0368,0.262,3.69e-05,0.11,0.151,113.986,pop
+Lana Del Rey,West Coast,"['art pop', 'pop']",22316798,83,256.76,2014-01-01,0.527,0.591,0.0396,0.194,0.0194,0.0907,0.461,123.167,pop
+Lana Del Rey,Doin' Time,"['art pop', 'pop']",22316798,82,202.192,2019-08-30,0.641,0.559,0.0355,0.404,0.00402,0.0937,0.523,144.982,pop
+Lana Del Rey,Video Games,"['art pop', 'pop']",22316798,67,281.946,2012-01-01,0.39,0.252,0.0298,0.808,0.0,0.0887,0.181,122.053,pop
+Lana Del Rey,Brooklyn Baby,"['art pop', 'pop']",22316798,81,351.64,2014-01-01,0.404,0.664,0.0407,0.542,0.00402,0.11,0.0949,107.747,pop
+Lana Del Rey,Cinnamon Girl,"['art pop', 'pop']",22316798,81,300.683,2019-08-30,0.294,0.337,0.036,0.814,0.414,0.14,0.135,91.781,pop
+Lana Del Rey,Diet Mountain Dew,"['art pop', 'pop']",22316798,68,222.92,2012-01-01,0.442,0.68,0.0858,0.284,0.0,0.421,0.601,176.09,pop
+Ariana Grande,Die For You (with Ariana Grande) - Remix,"['dance pop', 'pop']",89130720,82,232.857,2023-03-14,0.575,0.5,0.0707,0.227,0.0,0.335,0.506,67.033,pop
+Ariana Grande,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,"['dance pop', 'pop']",89130720,83,191.013,2020-03-20,0.65,0.825,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,pop
+Ariana Grande,7 rings,"['dance pop', 'pop']",89130720,85,178.626,2019-02-08,0.778,0.317,0.334,0.592,0.0,0.0881,0.327,140.048,pop
+Ariana Grande,One Last Time,"['dance pop', 'pop']",89130720,83,197.266,2014-08-25,0.628,0.593,0.0323,0.093,1.65e-06,0.096,0.104,125.026,pop
+Ariana Grande,positions,"['dance pop', 'pop']",89130720,83,172.324,2020-10-30,0.737,0.802,0.0878,0.468,0.0,0.0931,0.682,144.015,pop
+Ariana Grande,"thank u, next","['dance pop', 'pop']",89130720,82,207.32,2019-02-08,0.717,0.653,0.0658,0.229,0.0,0.101,0.412,106.966,pop
+Ariana Grande,Stuck with U (with Justin Bieber),"['dance pop', 'pop']",89130720,81,228.482,2020-05-08,0.597,0.45,0.0418,0.223,0.0,0.382,0.537,178.765,pop
+Ariana Grande,Into You,"['dance pop', 'pop']",89130720,71,244.453,2016-05-20,0.623,0.734,0.107,0.0162,1.75e-06,0.145,0.37,107.853,pop
+Ariana Grande,Love Me Harder,"['dance pop', 'pop']",89130720,79,236.133,2014-08-25,0.472,0.714,0.0334,0.00937,0.0,0.0764,0.24,98.992,pop
+Ariana Grande,34+35,"['dance pop', 'pop']",89130720,79,173.71,2020-10-30,0.83,0.585,0.094,0.237,0.0,0.248,0.485,109.978,pop
+Miley Cyrus,Flowers,['pop'],20218283,88,200.6,2023-03-10,0.707,0.681,0.0668,0.0632,5.15e-06,0.0322,0.646,117.999,pop
+Miley Cyrus,River,['pop'],20218283,88,162.973,2023-03-10,0.613,0.803,0.0367,0.000525,0.000333,0.189,0.461,127.989,pop
+Miley Cyrus,Party In The U.S.A.,['pop'],20218283,77,202.066,2009-01-01,0.652,0.698,0.042,0.00112,0.000115,0.0886,0.47,96.021,pop
+Miley Cyrus,Jaded,['pop'],20218283,85,185.933,2023-03-10,0.496,0.593,0.0285,0.0476,0.0,0.0909,0.177,91.038,pop
+Miley Cyrus,Nothing Breaks Like a Heart (feat. Miley Cyrus),['pop'],20218283,78,217.099,2019-06-21,0.601,0.794,0.0671,0.00987,1.36e-06,0.418,0.244,114.066,pop
+Miley Cyrus,Angels Like You,['pop'],20218283,82,196.453,2020-11-27,0.672,0.642,0.0313,0.0981,0.0,0.1,0.494,121.981,pop
+Miley Cyrus,Prisoner (feat. Dua Lipa),['pop'],20218283,81,169.333,2020-11-27,0.781,0.67,0.0452,0.0103,0.0,0.0761,0.595,127.99,pop
+Miley Cyrus,Rose Colored Lenses,['pop'],20218283,81,223.786,2023-03-10,0.539,0.503,0.0385,0.0574,2.34e-05,0.0847,0.836,174.068,pop
+Miley Cyrus,Wrecking Ball,['pop'],20218283,81,221.36,2013-10-04,0.53,0.422,0.0342,0.407,0.0,0.107,0.349,119.964,pop
+Miley Cyrus,Thousand Miles (feat. Brandi Carlile),['pop'],20218283,80,231.0,2023-03-10,0.503,0.722,0.103,0.205,3.52e-05,0.0845,0.354,172.006,pop
+Lil Wayne,Love Me,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,80,255.053,2013-01-01,0.669,0.634,0.0327,0.0125,0.0,0.0946,0.496,124.906,pop
+Lil Wayne,Lollipop,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,66,299.333,2008-01-01,0.832,0.43,0.0826,0.0606,0.00323,0.124,0.462,148.074,pop
+Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,75,243.49,2016-06-24,0.502,0.786,0.317,0.255,0.0,0.65,0.739,169.021,pop
+Lil Wayne,A Milli,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,67,221.813,2008-01-01,0.663,0.688,0.283,0.0391,0.00224,0.223,0.731,151.589,pop
+Lil Wayne,Forever,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,73,357.706,2009-05-15,0.457,0.906,0.342,0.249,0.0,0.182,0.54,104.02,pop
+Lil Wayne,6 Foot 7 Foot,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,73,248.586,2011-08-29,0.364,0.752,0.304,0.0007,0.0,0.318,0.606,79.119,pop
+Lil Wayne,Mirror,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,75,228.093,2011-08-29,0.328,0.622,0.0866,0.858,0.0,0.104,0.401,74.267,pop
+Lil Wayne,Gladiador - Remix,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,74,197.374,2023-03-17,0.584,0.787,0.146,0.203,0.0,0.251,0.765,153.992,pop
+Lil Wayne,Kant Nobody (feat. DMX),"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,42,180.359,2023-03-31,0.522,0.797,0.338,0.308,0.0,0.113,0.503,175.236,pop
+Lil Wayne,AIN'T GONNA ANSWER,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,72,187.453,2023-03-23,0.879,0.875,0.18,0.0808,0.0,0.327,0.763,95.021,pop
+Nicki Minaj,Red Ruby Da Sleeze,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,84,214.445,2023-03-03,0.696,0.733,0.256,0.115,0.0,0.111,0.292,98.355,pop
+Nicki Minaj,Super Freaky Girl,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,75,170.977,2022-08-26,0.951,0.878,0.211,0.0509,1.61e-05,0.321,0.923,133.014,pop
+Nicki Minaj,Starships,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,74,210.626,2011-01-01,0.747,0.716,0.075,0.135,0.0,0.251,0.751,125.008,pop
+Nicki Minaj,Tusa,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,74,201.92,2021-03-26,0.799,0.701,0.282,0.309,7.36e-05,0.0514,0.607,100.946,pop
+Nicki Minaj,Beauty And A Beat,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,57,226.613,2020-05-22,0.587,0.82,0.0668,0.0011,7.36e-06,0.131,0.578,127.976,pop
+Nicki Minaj,Bang Bang,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,78,199.386,2014-10-14,0.706,0.786,0.091,0.26,0.0,0.38,0.751,150.028,pop
+Nicki Minaj,Super Bass,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,79,200.013,2010-11-22,0.723,0.86,0.203,0.271,4.56e-06,0.598,0.667,126.979,pop
+Nicki Minaj,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,75,216.408,2017-02-23,0.696,0.817,0.109,0.075,0.0,0.187,0.782,98.064,pop
+Nicki Minaj,Only,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,71,312.026,2014-12-15,0.573,0.495,0.592,0.405,0.0,0.0969,0.255,179.196,pop
+Nicki Minaj,Tukoh Taka - Official FIFA Fan Festival™ Anthem,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,72,178.529,2022-11-18,0.963,0.905,0.117,0.654,0.0481,0.107,0.594,123.998,pop
+Kali Uchis,Moonlight,"['colombian pop', 'pop']",3949256,80,187.723,2023-03-03,0.642,0.706,0.052,0.518,0.0,0.25,0.896,136.851,pop
+Kali Uchis,telepatía,"['colombian pop', 'pop']",3949256,83,160.191,2020-12-04,0.653,0.524,0.0502,0.112,0.0,0.203,0.553,83.97,pop
+Kali Uchis,Melting,"['colombian pop', 'pop']",3949256,83,208.853,2015-02-04,0.574,0.479,0.0355,0.179,0.0803,0.106,0.303,115.263,pop
+Kali Uchis,I Wish you Roses,"['colombian pop', 'pop']",3949256,76,219.954,2023-03-03,0.452,0.589,0.0458,0.18,0.00048,0.139,0.315,141.692,pop
+Kali Uchis,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","['colombian pop', 'pop']",3949256,81,207.454,2018-04-06,0.702,0.659,0.13,0.301,0.00201,0.218,0.843,79.64,pop
+Kali Uchis,Dead To Me,"['colombian pop', 'pop']",3949256,78,199.505,2018-04-06,0.675,0.761,0.0466,0.432,0.0,0.102,0.428,119.001,pop
+Kali Uchis,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),"['colombian pop', 'pop']",3949256,78,204.763,2021-09-16,0.87,0.523,0.0602,0.433,2.07e-05,0.113,0.319,110.02,pop
+Kali Uchis,Fantasy (feat. Don Toliver),"['colombian pop', 'pop']",3949256,77,178.274,2023-03-03,0.641,0.684,0.0476,0.129,0.000288,0.141,0.188,104.036,pop
+Kali Uchis,Hasta Cuando,"['colombian pop', 'pop']",3949256,75,129.448,2023-03-03,0.648,0.651,0.143,0.128,0.0,0.121,0.401,90.952,pop
+Kali Uchis,Worth the Wait (feat. Omar Apollo),"['colombian pop', 'pop']",3949256,74,150.699,2023-03-03,0.583,0.544,0.228,0.725,0.0,0.585,0.211,155.9,pop
+Justin Bieber,STAY (with Justin Bieber),"['canadian pop', 'pop']",70963102,85,141.805,2021-07-27,0.591,0.764,0.0483,0.0383,0.0,0.103,0.478,169.928,pop
+Justin Bieber,Ghost,"['canadian pop', 'pop']",70963102,87,153.19,2021-03-19,0.601,0.741,0.0478,0.185,2.91e-05,0.415,0.441,153.96,pop
+Justin Bieber,Love Yourself,"['canadian pop', 'pop']",70963102,84,233.72,2015-11-13,0.609,0.378,0.438,0.835,0.0,0.28,0.515,100.418,pop
+Justin Bieber,Private Landing (feat. Justin Bieber & Future),"['canadian pop', 'pop']",70963102,84,238.253,2023-02-24,0.843,0.669,0.0639,0.0846,1.28e-05,0.105,0.435,136.979,pop
+Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),"['canadian pop', 'pop']",70963102,83,198.081,2021-03-19,0.677,0.696,0.119,0.321,0.0,0.42,0.464,90.03,pop
+Justin Bieber,bad guy,"['canadian pop', 'pop']",70963102,58,194.839,2021-07-20,0.67,0.453,0.295,0.256,0.327,0.117,0.685,135.047,pop
+Justin Bieber,Sorry,"['canadian pop', 'pop']",70963102,82,200.786,2015-11-13,0.654,0.76,0.045,0.0797,0.0,0.299,0.41,99.945,pop
+Justin Bieber,Baby,"['canadian pop', 'pop']",70963102,81,214.24,2010-01-01,0.728,0.859,0.137,0.0401,0.0,0.111,0.535,65.043,pop
+Justin Bieber,Stuck with U (with Justin Bieber),"['canadian pop', 'pop']",70963102,81,228.482,2020-05-08,0.597,0.45,0.0418,0.223,0.0,0.382,0.537,178.765,pop
+Justin Bieber,Beauty And A Beat,"['canadian pop', 'pop']",70963102,74,227.986,2012-01-01,0.601,0.843,0.0593,0.000704,5.27e-05,0.0681,0.534,128.002,pop
+Doja Cat,I Like You (A Happier Song) (with Doja Cat),"['dance pop', 'pop']",24946222,87,192.84,2022-06-03,0.733,0.67,0.0751,0.121,0.0,0.121,0.472,100.964,pop
+Doja Cat,Woman,"['dance pop', 'pop']",24946222,86,172.626,2021-06-25,0.824,0.764,0.0854,0.0888,0.00294,0.117,0.881,107.998,pop
+Doja Cat,Kiss Me More (feat. SZA),"['dance pop', 'pop']",24946222,81,208.666,2021-06-25,0.764,0.705,0.0284,0.259,8.92e-05,0.12,0.781,110.97,pop
+Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),"['dance pop', 'pop']",24946222,83,182.906,2022-05-06,0.801,0.601,0.255,0.0777,3.23e-05,0.145,0.74,159.969,pop
+Doja Cat,You Right,"['dance pop', 'pop']",24946222,82,186.173,2021-06-25,0.828,0.621,0.0565,0.0164,0.00233,0.0845,0.436,128.986,pop
+Doja Cat,Need to Know,"['dance pop', 'pop']",24946222,81,210.56,2021-06-25,0.664,0.609,0.0707,0.304,0.0,0.0926,0.194,130.041,pop
+Doja Cat,Streets,"['dance pop', 'pop']",24946222,82,226.986,2019-11-07,0.749,0.463,0.0842,0.21,0.0382,0.338,0.189,90.035,pop
+Doja Cat,In Your eyes (Remix),"['dance pop', 'pop']",24946222,40,236.88,2020-08-07,0.675,0.726,0.0329,0.00538,5.05e-05,0.0751,0.731,100.002,pop
+Doja Cat,Boss Bitch,"['dance pop', 'pop']",24946222,79,134.239,2020-01-23,0.707,0.955,0.222,0.127,0.0,0.202,0.575,125.989,pop
+Doja Cat,Get Into It (Yuh),"['dance pop', 'pop']",24946222,78,138.293,2021-06-25,0.912,0.655,0.162,0.315,3.39e-05,0.0894,0.793,91.942,pop
+Chris Brown,Under The Influence,"['dance pop', 'r&b']",19030837,91,184.613,2019-10-04,0.733,0.69,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,pop
+Chris Brown,Superhero (Heroes & Villains) [with Future & Chris Brown],"['dance pop', 'r&b']",19030837,90,182.666,2022-12-02,0.526,0.606,0.259,0.152,2.36e-06,0.194,0.492,116.622,pop
+Chris Brown,No Guidance (feat. Drake),"['dance pop', 'r&b']",19030837,79,260.64,2019-06-28,0.696,0.454,0.153,0.123,0.0,0.155,0.136,92.928,pop
+Chris Brown,Nostálgico,"['dance pop', 'r&b']",19030837,78,209.883,2021-09-08,0.734,0.846,0.0489,0.166,1.74e-06,0.235,0.604,98.026,pop
+Chris Brown,Forever,"['dance pop', 'r&b']",19030837,78,278.573,2008-04-29,0.672,0.82,0.0459,0.0368,0.000188,0.184,0.438,120.005,pop
+Chris Brown,Go Crazy,"['dance pop', 'r&b']",19030837,77,176.96,2020-05-08,0.755,0.578,0.145,0.316,0.0,0.25,0.581,94.148,pop
+Chris Brown,Monalisa,"['dance pop', 'r&b']",19030837,76,212.975,2022-05-19,0.828,0.726,0.0419,0.106,0.00101,0.103,0.67,113.017,pop
+Chris Brown,With You,"['dance pop', 'r&b']",19030837,75,252.12,2007-11-06,0.662,0.693,0.0698,0.134,0.0,0.145,0.655,86.009,pop
+Chris Brown,How Does It Feel,"['dance pop', 'r&b']",19030837,49,166.623,2023-03-31,0.558,0.736,0.0678,0.205,0.0,0.15,0.376,82.984,pop
+Chris Brown,Five More Hours,"['dance pop', 'r&b']",19030837,70,211.975,2017-03-31,0.699,0.883,0.219,0.0288,0.0,0.817,0.499,127.961,pop
+Bruno Mars,When I Was Your Man,"['dance pop', 'pop']",47283077,88,213.826,2012-12-07,0.612,0.28,0.0434,0.932,0.0,0.088,0.387,72.795,pop
+Bruno Mars,Locked out of Heaven,"['dance pop', 'pop']",47283077,86,233.478,2012-12-07,0.726,0.698,0.0431,0.049,0.0,0.309,0.867,143.994,pop
+Bruno Mars,Just the Way You Are,"['dance pop', 'pop']",47283077,82,220.734,2010-10-05,0.635,0.841,0.0422,0.0134,0.0,0.0622,0.424,109.021,pop
+Bruno Mars,Talking to the Moon,"['dance pop', 'pop']",47283077,81,217.866,2010-10-05,0.498,0.59,0.032,0.511,0.0,0.107,0.0784,145.867,pop
+Bruno Mars,That's What I Like,"['dance pop', 'pop']",47283077,84,206.693,2016-11-17,0.853,0.56,0.0406,0.013,0.0,0.0944,0.86,134.066,pop
+Bruno Mars,Leave The Door Open,"['dance pop', 'pop']",47283077,82,242.096,2021-11-11,0.586,0.616,0.0324,0.182,0.0,0.0927,0.719,148.088,pop
+Bruno Mars,Grenade,"['dance pop', 'pop']",47283077,77,222.091,2010-10-05,0.704,0.558,0.0542,0.148,0.0,0.107,0.245,110.444,pop
+Bruno Mars,Marry You,"['dance pop', 'pop']",47283077,75,230.192,2010-10-05,0.621,0.82,0.0367,0.332,0.0,0.104,0.452,144.905,pop
+Bruno Mars,The Lazy Song,"['dance pop', 'pop']",47283077,72,189.109,2010-10-05,0.794,0.711,0.0699,0.3,0.0,0.0955,0.955,174.915,pop
+Bruno Mars,Treasure,"['dance pop', 'pop']",47283077,80,178.56,2012-12-07,0.874,0.692,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,pop
+Billie Eilish,lovely (with Khalid),"['art pop', 'electropop', 'pop']",78532735,88,200.185,2018-04-19,0.351,0.296,0.0333,0.934,0.0,0.095,0.12,115.284,pop
+Billie Eilish,TV,"['art pop', 'electropop', 'pop']",78532735,86,281.38,2022-07-21,0.412,0.236,0.0379,0.83,0.00653,0.147,0.119,140.214,pop
+Billie Eilish,Happier Than Ever,"['art pop', 'electropop', 'pop']",78532735,85,298.899,2021-07-30,0.332,0.225,0.0348,0.767,0.00349,0.128,0.297,81.055,pop
+Billie Eilish,everything i wanted,"['art pop', 'electropop', 'pop']",78532735,84,245.425,2019-11-13,0.704,0.225,0.0994,0.902,0.657,0.106,0.243,120.006,pop
+Billie Eilish,Bored,"['art pop', 'electropop', 'pop']",78532735,83,180.933,2017-03-30,0.614,0.318,0.0478,0.896,0.00239,0.0795,0.112,119.959,pop
+Billie Eilish,bad guy,"['art pop', 'electropop', 'pop']",78532735,83,194.087,2019-03-29,0.701,0.425,0.375,0.328,0.13,0.1,0.562,135.128,pop
+Billie Eilish,when the party's over,"['art pop', 'electropop', 'pop']",78532735,83,196.077,2019-03-29,0.367,0.111,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,pop
+Billie Eilish,ocean eyes,"['art pop', 'electropop', 'pop']",78532735,69,200.56,2016-11-18,0.475,0.37,0.0361,0.819,0.0577,0.0841,0.157,144.828,pop
+Billie Eilish,idontwannabeyouanymore,"['art pop', 'electropop', 'pop']",78532735,80,203.569,2017-12-22,0.483,0.412,0.0402,0.737,0.0,0.116,0.247,170.163,pop
+Billie Eilish,Happier Than Ever - Edit,"['art pop', 'electropop', 'pop']",78532735,80,151.444,2021-07-28,0.334,0.599,0.0365,0.0468,0.000392,0.205,0.127,161.74,pop
+Harry Styles,As It Was,['pop'],26838277,91,167.303,2022-05-20,0.52,0.731,0.0557,0.342,0.00101,0.311,0.662,173.93,pop
+Harry Styles,Late Night Talking,['pop'],26838277,89,177.954,2022-05-20,0.714,0.728,0.0468,0.298,0.0,0.106,0.901,114.996,pop
+Harry Styles,Watermelon Sugar,['pop'],26838277,88,174.0,2019-12-13,0.548,0.816,0.0465,0.122,0.0,0.335,0.557,95.39,pop
+Harry Styles,Adore You,['pop'],26838277,85,207.133,2019-12-13,0.676,0.771,0.0483,0.0237,7e-06,0.102,0.569,99.048,pop
+Harry Styles,Sign of the Times,['pop'],26838277,84,340.706,2017-05-12,0.516,0.595,0.0313,0.0275,0.0,0.109,0.222,119.972,pop
+Harry Styles,Falling,['pop'],26838277,83,240.133,2019-12-13,0.567,0.267,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,pop
+Harry Styles,Matilda,['pop'],26838277,82,245.964,2022-05-20,0.507,0.294,0.04,0.896,1.97e-05,0.0966,0.386,114.199,pop
+Harry Styles,Music For a Sushi Restaurant,['pop'],26838277,82,193.813,2022-05-20,0.72,0.715,0.04,0.258,0.0568,0.107,0.357,107.041,pop
+Harry Styles,Satellite,['pop'],26838277,81,218.577,2022-05-20,0.576,0.457,0.0304,0.143,3.05e-05,0.0917,0.301,138.984,pop
+Harry Styles,Golden,['pop'],26838277,81,208.906,2019-12-13,0.448,0.838,0.0557,0.21,0.000131,0.131,0.254,139.863,pop
+Beyoncé,CUFF IT,"['dance pop', 'pop', 'r&b']",34103163,90,225.388,2022-07-29,0.78,0.689,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,pop
+Beyoncé,Crazy In Love (feat. Jay-Z),"['dance pop', 'pop', 'r&b']",34103163,78,236.133,2003-06-24,0.646,0.77,0.226,0.00249,0.0,0.0715,0.681,99.165,pop
+Beyoncé,Halo,"['dance pop', 'pop', 'r&b']",34103163,66,261.64,2008-11-14,0.508,0.72,0.0628,0.272,0.0,0.0563,0.472,79.983,pop
+Beyoncé,BREAK MY SOUL,"['dance pop', 'pop', 'r&b']",34103163,76,278.281,2022-07-29,0.693,0.887,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,pop
+Beyoncé,AMERICA HAS A PROBLEM,"['dance pop', 'pop', 'r&b']",34103163,80,198.897,2022-07-29,0.789,0.614,0.0579,0.00348,0.00152,0.283,0.108,126.035,pop
+Beyoncé,ALIEN SUPERSTAR,"['dance pop', 'pop', 'r&b']",34103163,77,215.459,2022-07-29,0.545,0.641,0.0998,0.00453,6.59e-05,0.171,0.464,121.892,pop
+Beyoncé,Single Ladies (Put a Ring on It),"['dance pop', 'pop', 'r&b']",34103163,66,193.213,2008-11-14,0.426,0.584,0.296,0.0383,0.0,0.188,0.272,193.437,pop
+Beyoncé,Irreplaceable,"['dance pop', 'pop', 'r&b']",34103163,66,227.666,2006-09-04,0.576,0.697,0.326,0.0286,1.15e-06,0.167,0.501,175.906,pop
+Beyoncé,Love On Top,"['dance pop', 'pop', 'r&b']",34103163,75,267.413,2011-06-24,0.652,0.749,0.0886,0.0848,0.0,0.604,0.651,94.103,pop
+Beyoncé,If I Were a Boy,"['dance pop', 'pop', 'r&b']",34103163,66,249.146,2008-11-14,0.632,0.518,0.0313,0.107,0.0,0.354,0.427,90.007,pop
+Khalid,lovely (with Khalid),"['pop', 'pop r&b']",15881324,88,200.185,2018-04-19,0.351,0.296,0.0333,0.934,0.0,0.095,0.12,115.284,pop
+Khalid,Numb,"['pop', 'pop r&b']",15881324,82,155.588,2022-06-10,0.912,0.774,0.0455,0.121,0.0127,0.101,0.632,119.966,pop
+Khalid,Eastside (with Halsey & Khalid),"['pop', 'pop r&b']",15881324,79,170.769,2018-12-07,0.632,0.686,0.243,0.549,0.0,0.2,0.329,89.949,pop
+Khalid,Better,"['pop', 'pop r&b']",15881324,78,229.32,2018-10-18,0.596,0.552,0.097,0.0765,0.334,0.104,0.112,97.949,pop
+Khalid,Silence,"['pop', 'pop r&b']",15881324,81,180.822,2017-08-11,0.52,0.761,0.0853,0.256,4.96e-06,0.17,0.286,141.971,pop
+Khalid,Young Dumb & Broke,"['pop', 'pop r&b']",15881324,80,202.546,2017-04-27,0.799,0.539,0.0421,0.199,1.66e-05,0.165,0.394,136.948,pop
+Khalid,Beautiful People (feat. Khalid),"['pop', 'pop r&b']",15881324,74,197.866,2019-07-12,0.64,0.647,0.186,0.124,0.0,0.0801,0.546,92.979,pop
+Khalid,We Go Down Together (with Khalid),"['pop', 'pop r&b']",15881324,78,184.963,2023-02-10,0.494,0.348,0.03,0.652,1.07e-05,0.0859,0.134,104.923,pop
+Khalid,Location,"['pop', 'pop r&b']",15881324,77,219.08,2017-04-27,0.736,0.449,0.425,0.33,0.000162,0.0898,0.326,80.126,pop
+Khalid,The Hard Way,"['pop', 'pop r&b']",15881324,74,183.925,2023-03-10,0.691,0.906,0.171,0.072,0.0,0.299,0.657,119.978,pop
+Ed Sheeran,Perfect,"['pop', 'uk pop']",110856483,89,263.4,2017-03-03,0.599,0.448,0.0232,0.163,0.0,0.106,0.168,95.05,pop
+Ed Sheeran,Shivers,"['pop', 'uk pop']",110856483,87,207.853,2021-10-29,0.788,0.859,0.0856,0.281,0.0,0.0424,0.822,141.02,pop
+Ed Sheeran,Shape of You,"['pop', 'uk pop']",110856483,87,233.712,2017-03-03,0.825,0.652,0.0802,0.581,0.0,0.0931,0.931,95.977,pop
+Ed Sheeran,Bad Habits,"['pop', 'uk pop']",110856483,86,230.746,2021-10-29,0.807,0.893,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,pop
+Ed Sheeran,Photograph,"['pop', 'uk pop']",110856483,66,258.986,2013,0.614,0.379,0.0476,0.607,0.000464,0.0986,0.201,107.989,pop
+Ed Sheeran,Eyes Closed,"['pop', 'uk pop']",110856483,66,194.848,2023-03-23,0.777,0.526,0.0645,0.302,0.0,0.105,0.389,107.071,pop
+Ed Sheeran,Bam Bam (feat. Ed Sheeran),"['pop', 'uk pop']",110856483,79,206.07,2022-04-07,0.756,0.697,0.0401,0.182,0.0,0.333,0.956,94.996,pop
+Ed Sheeran,Thinking out Loud,"['pop', 'uk pop']",110856483,65,281.56,2013,0.781,0.445,0.0295,0.474,0.0,0.184,0.591,78.998,pop
+Ed Sheeran,Celestial,"['pop', 'uk pop']",110856483,83,209.026,2022-09-29,0.574,0.852,0.0397,0.0529,0.0,0.161,0.501,123.038,pop
+Ed Sheeran,I Don't Care (with Justin Bieber),"['pop', 'uk pop']",110856483,73,219.946,2019-07-12,0.798,0.676,0.0442,0.0902,0.0,0.0894,0.843,101.956,pop
+Shakira,TQG,"['colombian pop', 'dance pop', 'latin pop']",28123423,97,197.933,2023-02-24,0.72,0.63,0.277,0.673,0.0,0.0936,0.607,179.974,pop
+Shakira,"Shakira: Bzrp Music Sessions, Vol. 53","['colombian pop', 'dance pop', 'latin pop']",28123423,97,214.945,2023-01-11,0.778,0.632,0.0493,0.274,0.0,0.0915,0.498,122.104,pop
+Shakira,Monotonía,"['colombian pop', 'dance pop', 'latin pop']",28123423,87,158.804,2022-10-19,0.873,0.695,0.0459,0.419,1.23e-06,0.211,0.823,131.963,pop
+Shakira,Te Felicito,"['colombian pop', 'dance pop', 'latin pop']",28123423,86,172.235,2022-04-21,0.695,0.636,0.317,0.234,0.0,0.081,0.575,174.14,pop
+Shakira,Hips Don't Lie (feat. Wyclef Jean),"['colombian pop', 'dance pop', 'latin pop']",28123423,85,218.093,2005-11-28,0.778,0.824,0.0707,0.284,0.0,0.405,0.758,100.024,pop
+Shakira,DON'T YOU WORRY,"['colombian pop', 'dance pop', 'latin pop']",28123423,72,194.437,2022-11-10,0.831,0.868,0.0325,0.176,0.0,0.184,0.483,131.971,pop
+Shakira,"Whenever, Wherever","['colombian pop', 'dance pop', 'latin pop']",28123423,82,196.16,2001-11-13,0.794,0.832,0.0407,0.237,1.14e-05,0.203,0.871,107.657,pop
+Shakira,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),"['colombian pop', 'dance pop', 'latin pop']",28123423,81,202.626,2010-05-28,0.758,0.871,0.147,0.0062,0.0,0.0663,0.753,126.994,pop
+Shakira,Dia de Enero,"['colombian pop', 'dance pop', 'latin pop']",28123423,80,173.133,2005-06-03,0.687,0.361,0.0792,0.35,1.11e-05,0.11,0.526,165.747,pop
+Shakira,Can't Remember to Forget You (feat. Rihanna),"['colombian pop', 'dance pop', 'latin pop']",28123423,76,206.866,2014-03-13,0.694,0.81,0.0661,0.122,0.0,0.141,0.824,137.968,pop
+BTS,Left and Right (Feat. Jung Kook of BTS),"['k-pop', 'k-pop boy group']",63066299,81,154.486,2022-10-06,0.881,0.592,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,pop
+BTS,My Universe,"['k-pop', 'k-pop boy group']",63066299,82,226.198,2021-10-15,0.573,0.711,0.0406,0.0114,0.0,0.328,0.47,105.006,pop
+BTS,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"['k-pop', 'k-pop boy group']",63066299,86,201.391,2022-11-20,0.71,0.879,0.0422,0.158,0.00142,0.439,0.341,114.993,pop
+BTS,Run BTS,"['k-pop', 'k-pop boy group']",63066299,84,204.939,2022-06-10,0.724,0.818,0.168,0.0201,0.0,0.0358,0.696,77.004,pop
+BTS,Dynamite,"['k-pop', 'k-pop boy group']",63066299,82,199.053,2020-11-20,0.746,0.765,0.0993,0.0112,0.0,0.0936,0.737,114.044,pop
+BTS,FAKE LOVE,"['k-pop', 'k-pop boy group']",63066299,78,242.333,2018-05-18,0.557,0.719,0.0371,0.00267,0.0,0.306,0.345,77.502,pop
+BTS,Butter,"['k-pop', 'k-pop boy group']",63066299,79,164.952,2022-06-10,0.759,0.459,0.0948,0.00323,0.0,0.0788,0.695,109.997,pop
+BTS,Boy With Luv (feat. Halsey),"['k-pop', 'k-pop boy group']",63066299,78,229.773,2019-04-12,0.645,0.862,0.0845,0.0933,0.0,0.193,0.803,119.947,pop
+BTS,Yet To Come,"['k-pop', 'k-pop boy group']",63066299,80,193.593,2022-06-10,0.559,0.885,0.189,0.0432,0.0,0.333,0.683,172.029,pop
+BTS,Bad Decisions (with BTS & Snoop Dogg),"['k-pop', 'k-pop boy group']",63066299,79,172.714,2022-08-05,0.762,0.861,0.0955,0.0185,0.0,0.264,0.955,120.048,pop
+Brent Faiyaz,JACKIE BROWN,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,82,169.013,2022-07-08,0.726,0.353,0.105,0.65,0.002,0.224,0.503,137.66,pop
+Brent Faiyaz,ALL MINE,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,82,216.062,2022-07-08,0.617,0.378,0.0315,0.428,9.16e-05,0.11,0.22,141.967,pop
+Brent Faiyaz,Clouded,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,81,110.128,2020-02-07,0.583,0.344,0.0559,0.774,0.0,0.143,0.581,65.203,pop
+Brent Faiyaz,Trust,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,79,158.42,2018-10-19,0.764,0.394,0.152,0.231,9.37e-05,0.117,0.465,92.009,pop
+Brent Faiyaz,DEAD MAN WALKING,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,73,247.079,2022-07-08,0.51,0.272,0.0557,0.303,0.0,0.0958,0.435,143.984,pop
+Brent Faiyaz,Poison,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,77,212.992,2016-08-03,0.689,0.394,0.065,0.711,0.000905,0.0859,0.382,117.489,pop
+Brent Faiyaz,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,76,588.139,2021-06-25,0.468,0.652,0.0722,0.333,0.000318,0.55,0.39,140.223,pop
+Brent Faiyaz,"GRAVITY (FEAT. TYLER, THE CREATOR)","['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,73,214.692,2022-07-08,0.541,0.619,0.254,0.167,0.00633,0.144,0.491,163.908,pop
+Brent Faiyaz,Rehab (Winter In Paris),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,75,180.303,2020-02-07,0.549,0.242,0.038,0.809,8.1e-05,0.127,0.286,144.211,pop
+Brent Faiyaz,lost souls (with Brent Faiyaz),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,74,269.727,2021-09-22,0.649,0.347,0.404,0.485,3.24e-05,0.154,0.176,169.994,pop
+Lady Gaga,Bloody Mary,"['art pop', 'dance pop', 'pop']",25811426,77,244.76,2011-01-01,0.591,0.637,0.03,0.0107,1.95e-06,0.113,0.432,99.998,pop
+Lady Gaga,Shallow,"['art pop', 'dance pop', 'pop']",25811426,84,215.733,2018-10-05,0.572,0.385,0.0308,0.371,0.0,0.231,0.323,95.799,pop
+Lady Gaga,Poker Face,"['art pop', 'dance pop', 'pop']",25811426,77,237.2,2008-01-01,0.851,0.806,0.0787,0.118,1.64e-06,0.121,0.787,118.999,pop
+Lady Gaga,Always Remember Us This Way,"['art pop', 'dance pop', 'pop']",25811426,82,210.2,2018-10-05,0.553,0.502,0.0409,0.299,0.0,0.764,0.296,129.976,pop
+Lady Gaga,Just Dance,"['art pop', 'dance pop', 'pop']",25811426,76,241.933,2008-01-01,0.822,0.739,0.0311,0.0264,4.26e-05,0.181,0.745,118.992,pop
+Lady Gaga,Bad Romance,"['art pop', 'dance pop', 'pop']",25811426,82,294.573,2009-11-05,0.696,0.921,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,pop
+Lady Gaga,Hold My Hand,"['art pop', 'dance pop', 'pop']",25811426,71,225.28,2022-05-27,0.53,0.612,0.0331,0.0403,0.0,0.393,0.264,148.009,pop
+Lady Gaga,Judas,"['art pop', 'dance pop', 'pop']",25811426,70,249.066,2011-01-01,0.661,0.937,0.0744,0.000967,1.59e-05,0.355,0.535,131.001,pop
+Lady Gaga,Rain On Me (with Ariana Grande),"['art pop', 'dance pop', 'pop']",25811426,75,182.2,2020-05-29,0.672,0.855,0.0397,0.021,0.0,0.323,0.646,123.056,pop
+Lady Gaga,Telephone,"['art pop', 'dance pop', 'pop']",25811426,72,220.626,2009-08-05,0.825,0.832,0.0403,0.00587,0.000789,0.114,0.713,122.021,pop
+Miguel,Sure Thing,"['dance pop', 'pop', 'r&b']",4559287,92,195.373,2010-11-26,0.684,0.607,0.1,0.0267,0.000307,0.191,0.498,81.001,pop
+Miguel,Sure Thing - Sped Up,"['dance pop', 'pop', 'r&b']",4559287,84,150.053,2023-01-27,0.753,0.458,0.123,0.0812,0.00413,0.209,0.662,105.057,pop
+Miguel,Girl With The Tattoo Enter.lewd,"['dance pop', 'pop', 'r&b']",4559287,82,102.813,2010-11-26,0.372,0.239,0.0296,0.856,0.000175,0.168,0.127,113.451,pop
+Miguel,All I Want Is You (feat. J. Cole),"['dance pop', 'pop', 'r&b']",4559287,74,295.92,2010-11-26,0.776,0.603,0.0343,0.0728,6.25e-05,0.111,0.921,96.888,pop
+Miguel,Adorn,"['dance pop', 'pop', 'r&b']",4559287,69,193.146,2012-09-28,0.625,0.576,0.175,0.0543,4.07e-05,0.187,0.235,179.063,pop
+Miguel,Sky Walker (feat. Travis Scott),"['dance pop', 'pop', 'r&b']",4559287,73,259.333,2017-12-01,0.674,0.506,0.0434,0.173,0.0,0.0866,0.183,145.965,pop
+Miguel,Don't Forget My Love,"['dance pop', 'pop', 'r&b']",4559287,62,199.09,2022-03-04,0.638,0.875,0.0413,0.0239,0.0149,0.119,0.251,121.035,pop
+Miguel,Remind Me to Forget,"['dance pop', 'pop', 'r&b']",4559287,62,217.293,2017-11-03,0.689,0.505,0.0933,0.158,0.0,0.138,0.312,99.017,pop
+Miguel,How Many Drinks?,"['dance pop', 'pop', 'r&b']",4559287,65,272.986,2012-09-28,0.379,0.608,0.134,0.00311,0.000614,0.248,0.241,81.822,pop
+Miguel,Come Through and Chill (feat. J. Cole & Salaam Remi),"['dance pop', 'pop', 'r&b']",4559287,68,322.0,2017-12-01,0.461,0.653,0.327,0.158,0.0,0.197,0.588,81.628,pop
+Young Thug,Trance (with Travis Scott & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,87,194.786,2022-12-02,0.571,0.549,0.404,0.18,0.0,0.168,0.447,119.497,pop
+Young Thug,Go Crazy,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,77,176.96,2020-05-08,0.755,0.578,0.145,0.316,0.0,0.25,0.581,94.148,pop
+Young Thug,Way 2 Sexy (with Future & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,77,257.604,2021-09-03,0.803,0.597,0.141,0.000619,4.5e-06,0.323,0.331,136.008,pop
+Young Thug,Metro Spider (with Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,75,174.56,2022-12-02,0.709,0.734,0.125,0.0411,0.0,0.346,0.245,143.087,pop
+Young Thug,Potion (with Dua Lipa & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,66,215.215,2022-08-05,0.824,0.697,0.0473,0.158,4.11e-05,0.0751,0.757,99.987,pop
+Young Thug,pick up the phone,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,69,252.262,2016-06-03,0.706,0.716,0.0768,0.115,0.0,0.316,0.459,136.904,pop
+Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,71,279.906,2019-12-20,0.845,0.631,0.216,0.188,0.0,0.0806,0.545,111.983,pop
+Young Thug,The London (feat. J. Cole & Travis Scott),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,67,200.186,2019-08-16,0.784,0.517,0.209,0.0249,1.44e-06,0.155,0.206,97.991,pop
+Young Thug,Solid (feat. Drake),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,72,215.693,2021-04-16,0.887,0.485,0.2,0.0392,0.0,0.141,0.328,125.987,pop
+Young Thug,Hot (feat. Gunna),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,71,193.026,2019-08-16,0.855,0.651,0.235,0.063,0.0,0.0772,0.559,111.997,pop
+Rauw Alejandro,BESO,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,90,194.543,2023-03-24,0.768,0.644,0.136,0.736,0.000837,0.173,0.53,95.05,pop
+Rauw Alejandro,LOKERA,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,81,197.101,2023-01-24,0.836,0.826,0.0461,0.213,6.03e-06,0.0814,0.579,102.025,pop
+Rauw Alejandro,Te Felicito,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,86,172.235,2022-04-21,0.695,0.636,0.317,0.234,0.0,0.081,0.575,174.14,pop
+Rauw Alejandro,Desesperados,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,82,224.996,2021-12-10,0.869,0.694,0.0783,0.356,0.00125,0.0878,0.511,90.02,pop
+Rauw Alejandro,PUNTO 40,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,79,190.654,2023-01-24,0.857,0.829,0.0842,0.00112,0.015,0.255,0.208,106.993,pop
+Rauw Alejandro,PANTIES Y BRASIERES,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,73,197.383,2023-01-24,0.758,0.888,0.0706,0.34,0.00139,0.144,0.408,107.039,pop
+Rauw Alejandro,Todo De Ti,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,77,199.604,2021-12-10,0.78,0.719,0.0506,0.302,0.000196,0.0931,0.336,127.962,pop
+Rauw Alejandro,Party,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,83,227.628,2022-05-06,0.829,0.799,0.0897,0.0151,0.000543,0.242,0.471,97.013,pop
+Rauw Alejandro,RON COLA,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,81,186.722,2023-01-24,0.739,0.682,0.0972,0.417,3.95e-05,0.105,0.476,94.048,pop
+Rauw Alejandro,VAMPIROS,"['puerto rican pop', 'trap latino', 'urbano latino']",16227966,80,176.59,2023-03-24,0.766,0.684,0.0514,0.135,0.0199,0.0832,0.474,102.045,pop
+Feid,Yandel 150,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,89,216.148,2023-01-13,0.783,0.729,0.0691,0.0492,0.000272,0.1,0.58,167.968,pop
+Feid,Hey Mor,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,91,196.6,2022-10-07,0.901,0.589,0.289,0.00302,0.000237,0.0992,0.399,98.002,pop
+Feid,Feliz Cumpleaños Ferxxo,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,89,155.96,2022-09-14,0.865,0.573,0.0678,0.0863,0.0,0.305,0.563,94.999,pop
+Feid,CHORRITO PA LAS ANIMAS,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,91,168.133,2022-12-02,0.743,0.831,0.0584,0.114,6.43e-05,0.35,0.609,95.975,pop
+Feid,Normal,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,86,171.88,2022-09-14,0.709,0.56,0.171,0.034,0.0,0.315,0.541,170.082,pop
+Feid,LA INOCENTE,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,87,202.173,2022-04-01,0.757,0.789,0.0583,0.307,0.0,0.0717,0.464,91.911,pop
+Feid,REMIX EXCLUSIVO,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,86,206.946,2023-03-17,0.651,0.557,0.204,0.0358,0.0,0.154,0.711,87.063,pop
+Feid,Ferxxo 100,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,81,167.76,2022-09-14,0.705,0.562,0.0674,0.257,0.0,0.137,0.569,163.893,pop
+Feid,Prohibidox,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,82,166.253,2022-09-14,0.647,0.801,0.249,0.0451,0.0,0.0628,0.517,180.108,pop
+Feid,ULTRA SOLO REMIX,"['colombian pop', 'pop reggaeton', 'reggaeton colombiano', 'urbano latino']",4386905,81,322.347,2022-06-16,0.909,0.824,0.0797,0.0777,0.00387,0.0638,0.585,109.97,pop
+Halsey,Closer,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,84,244.96,2016-07-29,0.748,0.524,0.0338,0.414,0.0,0.111,0.661,95.01,pop
+Halsey,Without Me,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,81,201.66,2020-01-17,0.752,0.488,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,pop
+Halsey,Eastside (with Halsey & Khalid),"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,79,170.769,2018-12-07,0.632,0.686,0.243,0.549,0.0,0.2,0.329,89.949,pop
+Halsey,Boy With Luv (feat. Halsey),"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,78,229.773,2019-04-12,0.645,0.862,0.0845,0.0933,0.0,0.193,0.803,119.947,pop
+Halsey,Die 4 Me,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,80,215.021,2023-02-24,0.694,0.743,0.0833,0.355,0.0,0.275,0.554,145.048,pop
+Halsey,Him & I (with Halsey),"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,77,268.866,2017-12-15,0.589,0.731,0.0868,0.0534,0.0,0.308,0.191,87.908,pop
+Halsey,Walls Could Talk,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,76,101.789,2017-06-02,0.626,0.423,0.0513,0.128,0.0,0.18,0.571,95.162,pop
+Halsey,Be Kind (with Halsey),"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,75,172.761,2020-05-01,0.63,0.633,0.0457,0.00776,0.0,0.0541,0.452,93.995,pop
+Halsey,Bad At Love,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,73,181.279,2017-06-02,0.675,0.751,0.0296,0.0604,0.0,0.0893,0.612,118.384,pop
+Halsey,"Stay With Me (with Justin Timberlake, Halsey & Pharrell)","['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",19818015,66,229.282,2022-08-05,0.81,0.733,0.0444,0.276,6.73e-06,0.288,0.9,125.975,pop
+Sam Smith,Unholy (feat. Kim Petras),"['pop', 'uk pop']",22201651,86,156.943,2023-01-27,0.712,0.463,0.0797,0.011,2.96e-06,0.301,0.206,131.199,pop
+Sam Smith,I'm Not The Only One,"['pop', 'uk pop']",22201651,86,239.316,2014-05-26,0.677,0.485,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,pop
+Sam Smith,Too Good At Goodbyes,"['pop', 'uk pop']",22201651,83,201.0,2017-11-03,0.681,0.372,0.0432,0.64,0.0,0.169,0.476,91.873,pop
+Sam Smith,Stay With Me,"['pop', 'uk pop']",22201651,84,172.723,2014-05-26,0.418,0.42,0.0414,0.588,6.39e-05,0.11,0.184,84.094,pop
+Sam Smith,I'm Not Here To Make Friends,"['pop', 'uk pop']",22201651,84,229.604,2023-01-27,0.698,0.895,0.0628,0.172,1.45e-05,0.409,0.838,114.914,pop
+Sam Smith,Dancing With A Stranger (with Normani),"['pop', 'uk pop']",22201651,76,171.029,2020-10-30,0.741,0.52,0.0656,0.447,1.97e-06,0.222,0.347,102.998,pop
+Sam Smith,Like I Can,"['pop', 'uk pop']",22201651,79,167.065,2014-05-26,0.656,0.627,0.0379,0.343,2.17e-05,0.124,0.481,99.933,pop
+Sam Smith,Fire On Fire,"['pop', 'uk pop']",22201651,76,246.735,2020-10-30,0.584,0.408,0.0461,0.476,0.0,0.18,0.333,115.129,pop
+Sam Smith,How Do You Sleep?,"['pop', 'uk pop']",22201651,68,202.204,2020-10-30,0.561,0.685,0.0835,0.154,0.0,0.077,0.363,165.944,pop
+Sam Smith,Promises (with Sam Smith),"['pop', 'uk pop']",22201651,75,213.309,2018-08-17,0.781,0.768,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,pop
+Selena Gomez,Calm Down (with Selena Gomez),"['dance pop', 'pop', 'post-teen pop']",41257821,95,239.317,2022-08-25,0.801,0.806,0.0381,0.382,0.000669,0.114,0.802,106.999,pop
+Selena Gomez,Lose You To Love Me,"['dance pop', 'pop', 'post-teen pop']",41257821,82,206.458,2020-01-10,0.488,0.343,0.0436,0.556,0.0,0.21,0.0978,102.819,pop
+Selena Gomez,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","['dance pop', 'pop', 'post-teen pop']",41257821,76,212.5,2018-09-28,0.842,0.801,0.228,0.157,4.82e-06,0.0642,0.617,95.881,pop
+Selena Gomez,Wolves,"['dance pop', 'pop', 'post-teen pop']",41257821,80,197.993,2017-10-25,0.724,0.804,0.0448,0.124,0.0,0.204,0.306,124.987,pop
+Selena Gomez,People You Know,"['dance pop', 'pop', 'post-teen pop']",41257821,79,194.9,2020-01-10,0.695,0.62,0.0521,0.0881,5.43e-05,0.111,0.62,150.032,pop
+Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,"['dance pop', 'pop', 'post-teen pop']",41257821,75,207.904,2018-05-10,0.601,0.724,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,pop
+Selena Gomez,It Ain’t Me (with Selena Gomez),"['dance pop', 'pop', 'post-teen pop']",41257821,67,220.78,2017-02-17,0.64,0.533,0.0706,0.119,0.0,0.0864,0.515,99.968,pop
+Selena Gomez,My Mind & Me,"['dance pop', 'pop', 'post-teen pop']",41257821,77,147.597,2022-11-03,0.6,0.389,0.0337,0.566,0.0,0.0826,0.244,143.577,pop
+Selena Gomez,The Heart Wants What It Wants,"['dance pop', 'pop', 'post-teen pop']",41257821,76,227.373,2014-01-01,0.616,0.789,0.0377,0.053,0.0,0.142,0.621,83.066,pop
+Selena Gomez,Same Old Love,"['dance pop', 'pop', 'post-teen pop']",41257821,70,229.08,2015-10-09,0.672,0.593,0.0304,0.0223,0.0,0.214,0.438,98.02,pop
+The Neighbourhood,Sweater Weather,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,90,240.4,2013-04-19,0.612,0.807,0.0336,0.0495,0.0177,0.101,0.398,124.053,pop
+The Neighbourhood,Daddy Issues,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,85,260.173,2015-10-30,0.588,0.521,0.0329,0.0678,0.149,0.123,0.337,85.012,pop
+The Neighbourhood,Softcore,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,85,206.28,2018-11-02,0.575,0.568,0.03,0.0484,0.000417,0.286,0.37,93.986,pop
+The Neighbourhood,You Get Me So High,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,82,153.0,2018-11-02,0.551,0.881,0.0542,0.186,0.0791,0.152,0.387,88.036,pop
+The Neighbourhood,Reflections,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,79,244.013,2018-11-02,0.648,0.594,0.0293,0.114,0.0462,0.116,0.544,113.983,pop
+The Neighbourhood,Pretty Boy,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,76,234.093,2020-09-25,0.578,0.386,0.0278,0.208,0.0453,0.307,0.569,154.902,pop
+The Neighbourhood,The Beach,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,76,255.133,2015-10-30,0.245,0.64,0.0608,0.131,8.11e-06,0.0766,0.105,135.739,pop
+The Neighbourhood,Afraid,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,75,251.186,2013-04-19,0.464,0.701,0.0411,0.00892,0.309,0.335,0.356,83.996,pop
+The Neighbourhood,Cry Baby,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,74,235.16,2015-10-30,0.581,0.656,0.0294,0.00269,2.78e-06,0.101,0.338,108.033,pop
+The Neighbourhood,Stargazing,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",12060747,73,217.026,2020-12-11,0.512,0.483,0.0298,0.00304,0.0011,0.12,0.367,160.009,pop
+Dua Lipa,Cold Heart - PNAU Remix,"['dance pop', 'pop', 'uk pop']",39219493,70,202.735,2021-10-22,0.795,0.8,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,pop
+Dua Lipa,One Kiss (with Dua Lipa),"['dance pop', 'pop', 'uk pop']",39219493,87,214.846,2018-04-06,0.791,0.862,0.11,0.037,2.19e-05,0.0814,0.592,123.994,pop
+Dua Lipa,Don't Start Now,"['dance pop', 'pop', 'uk pop']",39219493,82,183.29,2020-03-27,0.793,0.793,0.083,0.0123,0.0,0.0951,0.679,123.95,pop
+Dua Lipa,Levitating (feat. DaBaby),"['dance pop', 'pop', 'uk pop']",39219493,83,203.064,2020-03-27,0.702,0.825,0.0601,0.00883,0.0,0.0674,0.915,102.977,pop
+Dua Lipa,Levitating,"['dance pop', 'pop', 'uk pop']",39219493,82,203.807,2020-03-27,0.695,0.884,0.0753,0.0561,0.0,0.213,0.914,103.014,pop
+Dua Lipa,Prisoner (feat. Dua Lipa),"['dance pop', 'pop', 'uk pop']",39219493,81,169.333,2020-11-27,0.781,0.67,0.0452,0.0103,0.0,0.0761,0.595,127.99,pop
+Dua Lipa,New Rules,"['dance pop', 'pop', 'uk pop']",39219493,80,209.32,2017-06-02,0.762,0.7,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,pop
+Dua Lipa,Physical,"['dance pop', 'pop', 'uk pop']",39219493,77,193.829,2020-03-27,0.647,0.844,0.0457,0.0137,0.000658,0.102,0.746,146.967,pop
+Dua Lipa,Break My Heart,"['dance pop', 'pop', 'uk pop']",39219493,77,221.82,2020-03-27,0.73,0.729,0.0884,0.167,1.39e-06,0.349,0.467,113.011,pop
+Dua Lipa,IDGAF,"['dance pop', 'pop', 'uk pop']",39219493,79,217.946,2017-06-02,0.836,0.544,0.0943,0.0403,0.0,0.0824,0.51,97.028,pop
+NF,HOPE,"['hip hop', 'pop rap', 'rap']",8164551,83,264.473,2023-02-16,0.546,0.787,0.212,0.396,0.0,0.0619,0.497,100.559,pop
+NF,Let You Down,"['hip hop', 'pop rap', 'rap']",8164551,81,212.12,2017-10-06,0.662,0.714,0.121,0.312,0.0,0.179,0.464,147.997,pop
+NF,The Search,"['hip hop', 'pop rap', 'rap']",8164551,76,248.053,2019-07-26,0.789,0.789,0.298,0.598,0.0,0.099,0.37,119.95,pop
+NF,MOTTO,"['hip hop', 'pop rap', 'rap']",8164551,79,217.271,2023-03-09,0.685,0.882,0.296,0.082,0.0,0.286,0.715,80.283,pop
+NF,Lie,"['hip hop', 'pop rap', 'rap']",8164551,76,209.213,2017-10-06,0.513,0.661,0.24,0.161,0.0,0.246,0.179,94.791,pop
+NF,When I Grow Up,"['hip hop', 'pop rap', 'rap']",8164551,75,196.8,2019-07-26,0.817,0.814,0.185,0.32,0.0,0.152,0.247,109.994,pop
+NF,If You Want Love,"['hip hop', 'pop rap', 'rap']",8164551,75,199.386,2017-10-06,0.551,0.386,0.132,0.659,0.0,0.125,0.245,116.409,pop
+NF,The Search - Edit,"['hip hop', 'pop rap', 'rap']",8164551,73,197.694,2019-06-07,0.831,0.851,0.207,0.552,0.0,0.106,0.496,119.958,pop
+NF,Paralyzed,"['hip hop', 'pop rap', 'rap']",8164551,72,270.453,2015-03-31,0.51,0.643,0.0485,0.214,3.22e-06,0.101,0.0397,130.081,pop
+NF,CLOUDS,"['hip hop', 'pop rap', 'rap']",8164551,70,243.76,2021-03-26,0.788,0.652,0.405,0.373,0.0,0.755,0.812,128.108,pop
+Adele,Easy On Me,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,82,224.694,2021-11-19,0.604,0.366,0.0282,0.578,0.0,0.133,0.13,141.981,pop
+Adele,Set Fire to the Rain,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,81,242.973,2011-01-24,0.603,0.67,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,pop
+Adele,Rolling in the Deep,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,80,228.093,2011-01-24,0.73,0.769,0.0298,0.138,0.0,0.0473,0.507,104.948,pop
+Adele,Someone Like You,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,79,285.24,2011-01-24,0.556,0.319,0.0281,0.893,0.0,0.0996,0.294,135.187,pop
+Adele,Love In The Dark,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,77,285.935,2015-11-20,0.331,0.341,0.0309,0.528,0.0,0.109,0.152,109.821,pop
+Adele,When We Were Young,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,74,290.9,2015-11-20,0.376,0.595,0.0496,0.303,0.0,0.095,0.265,144.361,pop
+Adele,Make You Feel My Love,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,74,212.04,2008-01-28,0.317,0.172,0.0326,0.907,0.000383,0.105,0.0963,65.18,pop
+Adele,Oh My God,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,80,225.148,2021-11-19,0.534,0.725,0.046,0.091,0.0,0.0264,0.55,88.098,pop
+Adele,Hello,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,73,295.502,2015-11-20,0.578,0.43,0.0305,0.33,0.0,0.0854,0.288,78.991,pop
+Adele,Chasing Pavements,"['british soul', 'pop', 'pop soul', 'uk pop']",47330731,71,210.506,2008-01-28,0.616,0.47,0.0253,0.291,0.0,0.111,0.325,80.03,pop
+David Guetta,I'm Good (Blue),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,94,175.238,2022-08-26,0.561,0.965,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,pop
+David Guetta,Titanium (feat. Sia),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,70,245.04,2011-08-24,0.604,0.788,0.103,0.0678,0.153,0.127,0.301,126.06,pop
+David Guetta,DON'T YOU WORRY,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,72,194.437,2022-11-10,0.831,0.868,0.0325,0.176,0.0,0.184,0.483,131.971,pop
+David Guetta,Memories (feat. Kid Cudi),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,68,210.093,2009-08-21,0.561,0.87,0.343,0.0015,2.82e-06,0.246,0.498,129.98,pop
+David Guetta,Crazy What Love Can Do,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,81,169.756,2022-04-08,0.601,0.713,0.0449,0.0282,0.0,0.158,0.464,122.872,pop
+David Guetta,Sexy Bitch (feat. Akon),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,67,195.853,2009-08-21,0.813,0.627,0.0486,0.0771,0.000616,0.131,0.801,130.011,pop
+David Guetta,Remember (with David Guetta),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,71,161.386,2021-08-27,0.626,0.864,0.0378,0.0682,0.0,0.087,0.555,123.833,pop
+David Guetta,Love Tonight (David Guetta Remix Edit),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,79,158.095,2021-06-11,0.621,0.989,0.0434,0.015,0.357,0.184,0.0348,126.002,pop
+David Guetta,Here We Go Again,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,79,164.541,2023-03-03,0.552,0.945,0.0561,0.00676,0.000174,0.0556,0.384,130.011,pop
+David Guetta,Heartbreak Anthem (with David Guetta & Little Mix),"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",25765225,77,183.725,2021-05-20,0.595,0.784,0.102,0.216,0.0,0.0608,0.479,124.111,pop
+Joji,Glimpse of Us,['viral pop'],8298185,81,233.456,2022-11-04,0.44,0.317,0.0531,0.891,4.78e-06,0.141,0.268,169.914,pop
+Joji,Die For You,['viral pop'],8298185,84,211.666,2022-11-04,0.472,0.518,0.051,0.383,0.127,0.289,0.154,147.805,pop
+Joji,SLOW DANCING IN THE DARK,['viral pop'],8298185,83,209.273,2018-10-26,0.515,0.479,0.0261,0.544,0.00598,0.191,0.284,88.964,pop
+Joji,Sanctuary,['viral pop'],8298185,76,180.018,2020-09-24,0.552,0.638,0.11,0.387,0.00014,0.374,0.332,167.834,pop
+Joji,worldstar money (interlude),['viral pop'],8298185,78,126.312,2018-02-14,0.577,0.387,0.274,0.964,0.705,0.208,0.459,146.565,pop
+Joji,YEAH RIGHT,['viral pop'],8298185,78,174.357,2018-10-26,0.672,0.588,0.133,0.619,0.241,0.0992,0.204,169.033,pop
+Joji,Like You Do,['viral pop'],8298185,68,240.294,2020-09-24,0.582,0.199,0.0321,0.953,0.00852,0.135,0.0783,66.454,pop
+Joji,Gimme Love,['viral pop'],8298185,65,214.557,2020-09-24,0.484,0.632,0.0976,0.695,0.0243,0.209,0.0736,126.384,pop
+Joji,Feeling Like The End,['viral pop'],8298185,73,102.48,2022-11-04,0.794,0.668,0.0646,0.299,0.00104,0.0899,0.632,148.016,pop
+Joji,YUKON (INTERLUDE),['viral pop'],8298185,71,141.093,2022-11-04,0.736,0.71,0.091,0.383,0.0351,0.395,0.0728,82.482,pop
+Ty Dolla $ign,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix","['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,80,242.983,2014-06-10,0.805,0.33,0.1,0.22,0.0,0.105,0.211,121.97,pop
+Ty Dolla $ign,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,76,121.572,2021-06-25,0.493,0.653,0.0466,0.269,0.0,0.511,0.852,142.347,pop
+Ty Dolla $ign,Nights Like This (feat. Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,76,201.787,2019-02-22,0.61,0.725,0.15,0.367,0.0,0.154,0.291,146.163,pop
+Ty Dolla $ign,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,75,216.408,2017-02-23,0.696,0.817,0.109,0.075,0.0,0.187,0.782,98.064,pop
+Ty Dolla $ign,Chosen (feat. Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,74,161.684,2020-12-04,0.571,0.767,0.287,0.336,0.0,0.0809,0.605,93.421,pop
+Ty Dolla $ign,OTW,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,72,263.013,2018-04-20,0.652,0.678,0.0541,0.183,3.26e-05,0.106,0.28,72.989,pop
+Ty Dolla $ign,Spicy (feat. Post Malone),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,71,143.375,2020-10-23,0.782,0.51,0.0419,0.143,0.0,0.115,0.118,99.993,pop
+Ty Dolla $ign,Scared of the Dark (feat. XXXTENTACION),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,68,233.0,2018-12-14,0.443,0.623,0.0718,0.0468,0.0,0.247,0.156,79.365,pop
+Ty Dolla $ign,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,66,199.427,2019-08-09,0.872,0.814,0.155,0.00485,1.96e-06,0.214,0.57,98.985,pop
+Ty Dolla $ign,My Friends (feat. Lil Durk),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,65,158.167,2022-10-05,0.633,0.478,0.044,0.0558,0.0,0.202,0.441,169.961,pop
+Katy Perry,Dark Horse,"['dance pop', 'pop']",26093208,80,215.672,2013-01-01,0.647,0.585,0.0512,0.00314,0.0,0.165,0.353,131.934,pop
+Katy Perry,Last Friday Night (T.G.I.F.),"['dance pop', 'pop']",26093208,75,230.733,2010-01-01,0.652,0.812,0.0409,0.00125,3.01e-05,0.667,0.72,126.023,pop
+Katy Perry,The One That Got Away,"['dance pop', 'pop']",26093208,73,227.333,2010-01-01,0.691,0.795,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,pop
+Katy Perry,Hot N Cold,"['dance pop', 'pop']",26093208,71,220.226,2008-06-17,0.706,0.841,0.0418,7.95e-05,0.0,0.0688,0.861,132.032,pop
+Katy Perry,Roar,"['dance pop', 'pop']",26093208,79,223.546,2013-01-01,0.671,0.771,0.0316,0.00492,7.28e-06,0.354,0.436,90.003,pop
+Katy Perry,Firework,"['dance pop', 'pop']",26093208,71,227.893,2010-01-01,0.638,0.832,0.049,0.141,0.0,0.113,0.648,124.071,pop
+Katy Perry,I Kissed A Girl,"['dance pop', 'pop']",26093208,71,179.64,2008-06-17,0.699,0.76,0.0677,0.00223,0.0,0.132,0.696,129.996,pop
+Katy Perry,California Gurls,"['dance pop', 'pop']",26093208,71,234.653,2010-01-01,0.788,0.753,0.0536,0.0038,0.0,0.18,0.403,125.005,pop
+Katy Perry,Teenage Dream,"['dance pop', 'pop']",26093208,73,227.741,2010-01-01,0.719,0.798,0.0361,0.0162,2.34e-06,0.134,0.591,120.011,pop
+Katy Perry,Harleys In Hawaii,"['dance pop', 'pop']",26093208,76,185.48,2020-08-28,0.721,0.751,0.125,0.162,6.59e-06,0.118,0.738,140.095,pop
+Marshmello,El Merengue,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,88,189.668,2023-03-03,0.775,0.677,0.0442,0.0313,0.00517,0.112,0.698,124.011,pop
+Marshmello,Leave Before You Love Me (with Jonas Brothers),"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,83,154.983,2021-05-21,0.721,0.738,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,pop
+Marshmello,Happier,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,82,214.289,2018-08-17,0.687,0.792,0.0452,0.191,0.0,0.167,0.671,100.015,pop
+Marshmello,Numb,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,82,155.588,2022-06-10,0.912,0.774,0.0455,0.121,0.0127,0.101,0.632,119.966,pop
+Marshmello,Silence,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,81,180.822,2017-08-11,0.52,0.761,0.0853,0.256,4.96e-06,0.17,0.286,141.971,pop
+Marshmello,Wolves,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,80,197.993,2017-10-25,0.724,0.804,0.0448,0.124,0.0,0.204,0.306,124.987,pop
+Marshmello,Come & Go (with Marshmello),"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,78,205.484,2020-07-10,0.625,0.814,0.0657,0.0172,0.0,0.158,0.535,144.991,pop
+Marshmello,FRIENDS,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,78,202.62,2018-02-09,0.626,0.88,0.0504,0.205,0.0,0.128,0.534,95.079,pop
+Marshmello,Be Kind (with Halsey),"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,75,172.761,2020-05-01,0.63,0.633,0.0457,0.00776,0.0,0.0541,0.452,93.995,pop
+Marshmello,Here With Me,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",34977608,74,156.346,2019-03-08,0.791,0.565,0.0439,0.0623,0.0,0.156,0.181,99.961,pop
+Hozier,Take Me to Church,"['irish singer-songwriter', 'pop']",5581956,77,241.693,2014-09-19,0.566,0.664,0.0464,0.634,0.0,0.116,0.437,128.945,pop
+Hozier,Eat Your Young,"['irish singer-songwriter', 'pop']",5581956,80,242.293,2023-03-17,0.553,0.587,0.0277,0.345,0.1,0.256,0.346,90.018,pop
+Hozier,Would That I,"['irish singer-songwriter', 'pop']",5581956,73,268.293,2019-03-01,0.521,0.526,0.0281,0.243,0.00537,0.108,0.502,130.694,pop
+Hozier,Like Real People Do,"['irish singer-songwriter', 'pop']",5581956,72,198.026,2014-09-19,0.539,0.179,0.0309,0.921,0.393,0.106,0.145,140.01,pop
+Hozier,Someone New,"['irish singer-songwriter', 'pop']",5581956,69,222.813,2014-09-19,0.443,0.533,0.0473,0.429,3.66e-06,0.332,0.596,183.791,pop
+Hozier,All Things End,"['irish singer-songwriter', 'pop']",5581956,71,213.773,2023-03-17,0.492,0.513,0.0449,0.378,0.0,0.0777,0.236,74.883,pop
+Hozier,Tell It To My Heart,"['irish singer-songwriter', 'pop']",5581956,74,165.524,2021-10-29,0.539,0.715,0.0595,0.0265,0.0,0.609,0.489,123.854,pop
+Hozier,Almost (Sweet Music),"['irish singer-songwriter', 'pop']",5581956,71,217.48,2019-03-01,0.523,0.687,0.105,0.0215,2.86e-06,0.203,0.711,90.036,pop
+Hozier,Cherry Wine - Live,"['irish singer-songwriter', 'pop']",5581956,68,240.146,2014-09-19,0.415,0.11,0.0388,0.951,0.00236,0.0962,0.234,81.876,pop
+Hozier,Work Song,"['irish singer-songwriter', 'pop']",5581956,70,229.72,2014-09-19,0.531,0.363,0.0608,0.749,0.0,0.112,0.259,121.412,pop
+The Kid LAROI,STAY (with Justin Bieber),"['australian hip hop', 'pop']",4457924,85,141.805,2021-07-27,0.591,0.764,0.0483,0.0383,0.0,0.103,0.478,169.928,pop
+The Kid LAROI,Love Again,"['australian hip hop', 'pop']",4457924,87,146.64,2023-01-27,0.662,0.398,0.0275,0.716,0.0,0.111,0.468,107.001,pop
+The Kid LAROI,Thousand Miles,"['australian hip hop', 'pop']",4457924,79,164.781,2022-04-22,0.376,0.657,0.0768,0.0858,0.0,0.0884,0.203,80.565,pop
+The Kid LAROI,WITHOUT YOU,"['australian hip hop', 'pop']",4457924,78,161.384,2021-07-27,0.662,0.413,0.0299,0.213,0.0,0.134,0.467,93.005,pop
+The Kid LAROI,I GUESS IT'S LOVE?,"['australian hip hop', 'pop']",4457924,76,137.725,2023-02-24,0.595,0.823,0.0566,0.0662,0.0,0.569,0.435,155.005,pop
+The Kid LAROI,Hate The Other Side (with Marshmello & The Kid Laroi),"['australian hip hop', 'pop']",4457924,74,160.212,2020-07-10,0.701,0.65,0.104,0.291,0.0,0.112,0.647,90.003,pop
+The Kid LAROI,GO (feat. Juice WRLD),"['australian hip hop', 'pop']",4457924,72,181.688,2021-07-27,0.487,0.74,0.0944,0.157,0.0,0.612,0.522,73.779,pop
+The Kid LAROI,WITHOUT YOU (with Miley Cyrus),"['australian hip hop', 'pop']",4457924,74,161.384,2021-04-30,0.655,0.469,0.0292,0.173,0.0,0.0956,0.467,92.56,pop
+The Kid LAROI,SO DONE,"['australian hip hop', 'pop']",4457924,74,126.521,2021-07-27,0.719,0.598,0.077,0.232,0.0,0.115,0.303,142.592,pop
+The Kid LAROI,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)","['australian hip hop', 'pop']",4457924,73,144.86,2021-07-27,0.721,0.632,0.0358,0.0693,0.0,0.291,0.296,92.057,pop
+Coldplay,Viva La Vida,"['permanent wave', 'pop']",42982717,86,242.373,2008-05-26,0.486,0.617,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,pop
+Coldplay,Yellow,"['permanent wave', 'pop']",42982717,89,266.773,2000-07-10,0.429,0.661,0.0281,0.00239,0.000121,0.234,0.285,173.372,pop
+Coldplay,My Universe,"['permanent wave', 'pop']",42982717,82,226.198,2021-10-15,0.573,0.711,0.0406,0.0114,0.0,0.328,0.47,105.006,pop
+Coldplay,Something Just Like This,"['permanent wave', 'pop']",42982717,85,247.16,2017-04-07,0.617,0.635,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,pop
+Coldplay,Sparks,"['permanent wave', 'pop']",42982717,85,227.093,2000-07-10,0.371,0.268,0.0281,0.748,0.0517,0.104,0.165,102.617,pop
+Coldplay,The Scientist,"['permanent wave', 'pop']",42982717,84,309.6,2002-08-08,0.557,0.442,0.0243,0.731,1.46e-05,0.11,0.213,146.277,pop
+Coldplay,A Sky Full of Stars,"['permanent wave', 'pop']",42982717,84,267.866,2014-05-19,0.545,0.675,0.0279,0.00617,0.00197,0.209,0.162,124.97,pop
+Coldplay,Paradise,"['permanent wave', 'pop']",42982717,84,278.719,2011-10-24,0.449,0.585,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,pop
+Coldplay,Hymn for the Weekend,"['permanent wave', 'pop']",42982717,83,258.266,2015-12-04,0.491,0.693,0.0377,0.211,6.92e-06,0.325,0.412,90.027,pop
+Coldplay,Fix You,"['permanent wave', 'pop']",42982717,83,295.533,2005-06-07,0.209,0.417,0.0338,0.164,0.00196,0.113,0.124,138.178,pop
+Maroon 5,Payphone,['pop'],40073401,72,231.386,2012-01-01,0.739,0.756,0.0394,0.0136,0.0,0.37,0.523,110.028,pop
+Maroon 5,Maps,['pop'],40073401,84,189.96,2014-09-02,0.742,0.713,0.0303,0.0205,0.0,0.059,0.879,120.032,pop
+Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",['pop'],40073401,72,201.16,2010,0.722,0.758,0.0471,0.0111,0.0,0.308,0.62,128.047,pop
+Maroon 5,Memories Remix (feat. Nipsey Hussle & YG),['pop'],40073401,72,189.486,2021-06-11,0.807,0.396,0.0545,0.855,0.0,0.0805,0.7,91.159,pop
+Maroon 5,Sugar,['pop'],40073401,81,235.493,2014-09-02,0.748,0.788,0.0334,0.0591,0.0,0.0863,0.884,120.076,pop
+Maroon 5,Animals,['pop'],40073401,81,231.013,2014-09-02,0.279,0.742,0.0898,0.000185,0.0,0.593,0.328,189.868,pop
+Maroon 5,She Will Be Loved - Radio Mix,['pop'],40073401,79,259.453,2002,0.651,0.663,0.0281,0.228,0.0,0.0994,0.465,102.0,pop
+Maroon 5,This Love,['pop'],40073401,80,206.2,2002,0.712,0.862,0.0378,0.0525,0.0,0.093,0.809,95.051,pop
+Maroon 5,Beautiful Mistakes (feat. Megan Thee Stallion),['pop'],40073401,80,227.395,2021-06-11,0.713,0.676,0.027,0.0377,0.0,0.154,0.721,99.048,pop
+Maroon 5,One More Night,['pop'],40073401,71,219.466,2012-01-01,0.718,0.82,0.0323,0.0444,0.0,0.0846,0.613,92.998,pop
+Paramore,Misery Business,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,75,211.52,2007-06-11,0.517,0.906,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,pop
+Paramore,Still into You,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,79,216.013,2013-04-05,0.602,0.923,0.044,0.0098,0.0,0.0561,0.765,136.01,pop
+Paramore,All I Wanted,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,75,225.786,2009-09-28,0.494,0.723,0.0441,0.0192,0.0322,0.134,0.152,144.036,pop
+Paramore,This Is Why,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,73,206.7,2023-02-10,0.728,0.76,0.0396,0.00433,0.00585,0.13,0.674,123.045,pop
+Paramore,The Only Exception,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,73,267.653,2009-09-28,0.452,0.563,0.0272,0.144,0.0,0.143,0.209,137.715,pop
+Paramore,Decode,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,72,261.959,2008-11-04,0.28,0.87,0.0592,0.000686,0.00608,0.101,0.284,164.057,pop
+Paramore,Ain't It Fun,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,73,296.52,2013-04-05,0.61,0.893,0.0921,0.154,4.41e-05,0.021,0.673,104.031,pop
+Paramore,Hard Times,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,73,182.693,2017-05-12,0.695,0.818,0.0334,0.00647,4.87e-06,0.0219,0.916,119.965,pop
+Paramore,Running Out Of Time,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,73,192.44,2023-02-10,0.736,0.534,0.0367,0.0433,0.00434,0.0664,0.552,127.035,pop
+Paramore,That's What You Get,"['candy pop', 'pixie', 'pop emo', 'pop punk']",7665716,67,220.48,2007-06-11,0.528,0.831,0.0429,9.43e-05,0.0,0.141,0.632,131.094,pop
+Cardi B,WAP (feat. Megan Thee Stallion),"['dance pop', 'pop', 'rap', 'viral rap']",21316593,79,187.541,2020-08-07,0.935,0.454,0.375,0.0194,0.0,0.0824,0.357,133.073,pop
+Cardi B,I Like It,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,78,253.39,2018-04-06,0.816,0.726,0.129,0.099,0.0,0.372,0.65,136.048,pop
+Cardi B,Tomorrow 2 (with Cardi B),"['dance pop', 'pop', 'rap', 'viral rap']",21316593,74,209.811,2022-11-11,0.795,0.814,0.4,0.0736,0.0,0.117,0.68,160.039,pop
+Cardi B,Up,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,71,156.944,2021-02-04,0.868,0.795,0.269,0.0012,0.0193,0.0461,0.819,166.0,pop
+Cardi B,South of the Border (feat. Camila Cabello & Cardi B),"['dance pop', 'pop', 'rap', 'viral rap']",21316593,75,204.466,2019-07-12,0.857,0.621,0.0825,0.148,0.0,0.0865,0.668,97.989,pop
+Cardi B,DESPECHÁ RMX,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,75,170.827,2022-12-16,0.954,0.582,0.0727,0.235,1.26e-06,0.0572,0.884,130.008,pop
+Cardi B,Please Me,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,74,200.889,2019-02-15,0.747,0.57,0.081,0.0642,0.0,0.0832,0.65,133.992,pop
+Cardi B,Finesse - Remix; feat. Cardi B,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,73,217.288,2017-12-20,0.704,0.859,0.0996,0.0185,0.0,0.0215,0.926,105.115,pop
+Cardi B,Bodak Yellow,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,72,223.712,2018-04-06,0.926,0.703,0.103,0.0659,0.0,0.231,0.485,125.022,pop
+Cardi B,Money,"['dance pop', 'pop', 'rap', 'viral rap']",21316593,72,183.527,2018-10-23,0.95,0.59,0.29,0.00534,0.0,0.11,0.219,130.003,pop
+Summer Walker,Girls Need Love (with Drake) - Remix,"['pop', 'r&b']",4821712,79,222.374,2018-10-19,0.656,0.432,0.217,0.443,0.0,0.132,0.0897,97.022,pop
+Summer Walker,Playing Games (with Bryson Tiller) - Extended Version,"['pop', 'r&b']",4821712,78,143.226,2019-10-04,0.726,0.408,0.0614,0.603,0.0,0.225,0.459,115.918,pop
+Summer Walker,Deep,"['pop', 'r&b']",4821712,77,92.093,2018-10-19,0.646,0.335,0.247,0.626,1.3e-05,0.107,0.419,167.927,pop
+Summer Walker,No Love (with SZA),"['pop', 'r&b']",4821712,77,231.497,2021-11-05,0.707,0.618,0.19,0.17,0.0,0.293,0.517,133.876,pop
+Summer Walker,White Tee (with NO1-NOAH),"['pop', 'r&b']",4821712,76,211.373,2020-07-10,0.791,0.366,0.0966,0.744,7.24e-06,0.106,0.335,124.878,pop
+Summer Walker,Karma,"['pop', 'r&b']",4821712,75,188.906,2018-10-19,0.593,0.294,0.0499,0.345,2.03e-05,0.287,0.152,113.847,pop
+Summer Walker,Session 32,"['pop', 'r&b']",4821712,74,98.026,2018-04-05,0.574,0.123,0.196,0.894,0.00111,0.118,0.117,115.431,pop
+Summer Walker,Yummy - Summer Walker Remix,"['pop', 'r&b']",4821712,39,209.177,2021-02-12,0.653,0.578,0.0513,0.292,0.0,0.105,0.554,145.883,pop
+Summer Walker,Girls Need Love,"['pop', 'r&b']",4821712,73,140.76,2018-10-19,0.645,0.418,0.29,0.558,0.0003,0.562,0.123,96.963,pop
+Summer Walker,Deserve Me (with Summer Walker),"['pop', 'r&b']",4821712,73,265.888,2023-03-03,0.639,0.641,0.0344,0.0649,1.58e-05,0.137,0.419,111.017,pop
+Wiz Khalifa,"Young, Wild & Free (feat. Bruno Mars)","['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,68,207.346,2011-12-12,0.553,0.652,0.206,0.0897,0.0,0.111,0.551,94.505,pop
+Wiz Khalifa,See You Again (feat. Charlie Puth),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,81,229.525,2015,0.689,0.481,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,pop
+Wiz Khalifa,Black and Yellow,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,76,217.666,2011-03-29,0.684,0.834,0.0675,0.0646,0.0,0.271,0.538,164.02,pop
+Wiz Khalifa,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,75,243.49,2016-06-24,0.502,0.786,0.317,0.255,0.0,0.65,0.739,169.021,pop
+Wiz Khalifa,The Thrill,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,65,234.333,2020-11-11,0.817,0.775,0.108,0.277,0.0,0.108,0.806,126.984,pop
+Wiz Khalifa,We Own It (Fast & Furious),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,70,227.906,2013-01-01,0.563,0.902,0.402,0.0545,0.0,0.0524,0.559,171.999,pop
+Wiz Khalifa,Hopeless Romantic (feat. Swae Lee),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,66,226.742,2018-07-13,0.877,0.477,0.0587,0.307,0.0,0.0929,0.552,127.023,pop
+Wiz Khalifa,So High (feat. Ghost Loft),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,66,249.287,2014-08-19,0.628,0.629,0.0485,0.118,0.0,0.102,0.3,157.99,pop
+Wiz Khalifa,No Sleep,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,65,191.32,2011-03-29,0.653,0.711,0.0623,0.109,0.0,0.443,0.769,160.048,pop
+Wiz Khalifa,We Dem Boyz,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,64,224.933,2014-08-19,0.717,0.862,0.054,0.00689,0.0,0.321,0.52,130.021,pop
+Calvin Harris,We Found Love,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,84,215.226,2011-11-18,0.734,0.766,0.0383,0.025,0.00138,0.108,0.6,127.986,pop
+Calvin Harris,Miracle (with Ellie Goulding),"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,87,186.496,2023-03-10,0.636,0.869,0.0412,0.0378,0.0446,0.0808,0.306,143.011,pop
+Calvin Harris,One Kiss (with Dua Lipa),"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,87,214.846,2018-04-06,0.791,0.862,0.11,0.037,2.19e-05,0.0814,0.592,123.994,pop
+Calvin Harris,I'm Not Here To Make Friends,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,84,229.604,2023-01-27,0.698,0.895,0.0628,0.172,1.45e-05,0.409,0.838,114.914,pop
+Calvin Harris,This Is What You Came For,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,83,222.16,2016-04-29,0.631,0.927,0.0332,0.199,0.119,0.148,0.465,123.962,pop
+Calvin Harris,Summer,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,81,222.533,2014-10-31,0.596,0.856,0.0346,0.0211,0.0178,0.141,0.743,127.949,pop
+Calvin Harris,Feel So Close - Radio Edit,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,80,206.413,2012-10-29,0.707,0.924,0.031,0.000972,0.00703,0.204,0.919,127.937,pop
+Calvin Harris,Outside (feat. Ellie Goulding),"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,80,227.266,2014-10-31,0.646,0.823,0.0394,0.213,0.0,0.322,0.418,128.035,pop
+Calvin Harris,My Way,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,78,219.159,2016-09-16,0.818,0.913,0.0426,0.093,3.69e-05,0.161,0.536,119.986,pop
+Calvin Harris,How Deep Is Your Love,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",23284308,77,212.64,2015-07-17,0.738,0.868,0.0731,0.0392,0.00169,0.388,0.336,122.003,pop
+Megan Thee Stallion,Beautiful Mistakes (feat. Megan Thee Stallion),"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,80,227.395,2021-06-11,0.713,0.676,0.027,0.0377,0.0,0.154,0.721,99.048,pop
+Megan Thee Stallion,WAP (feat. Megan Thee Stallion),"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,79,187.541,2020-08-07,0.935,0.454,0.375,0.0194,0.0,0.0824,0.357,133.073,pop
+Megan Thee Stallion,Sweetest Pie,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,70,201.334,2022-08-12,0.814,0.626,0.214,0.173,0.0,0.101,0.686,123.972,pop
+Megan Thee Stallion,On Me - Remix,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,46,135.444,2022-09-16,0.867,0.576,0.334,0.0023,0.0,0.148,0.417,77.983,pop
+Megan Thee Stallion,"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,74,225.6,2021-10-22,0.8,0.837,0.0491,0.00406,0.00313,0.0904,0.702,100.015,pop
+Megan Thee Stallion,Thot Shit,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,66,184.634,2021-10-29,0.949,0.683,0.0946,0.0199,0.0,0.171,0.887,130.012,pop
+Megan Thee Stallion,Her,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,71,137.107,2022-08-12,0.945,0.848,0.326,0.374,3.31e-05,0.101,0.819,119.918,pop
+Megan Thee Stallion,Body,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,70,171.067,2020-11-20,0.914,0.732,0.241,0.0166,0.0,0.107,0.469,94.066,pop
+Megan Thee Stallion,Girls in the Hood,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,65,154.389,2020-11-20,0.821,0.816,0.352,0.00711,0.0,0.0645,0.797,179.974,pop
+Megan Thee Stallion,Megan's Piano,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",7589872,70,113.429,2021-10-29,0.953,0.621,0.154,0.00799,4.87e-06,0.307,0.378,132.063,pop
+Drake,Rich Flex,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,91,239.359,2022-11-04,0.561,0.52,0.244,0.0503,1.86e-06,0.355,0.424,153.15,hip hop
+Drake,Jimmy Cooks (feat. 21 Savage),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,87,218.364,2022-06-17,0.529,0.673,0.175,0.000307,2.41e-06,0.093,0.366,165.921,hip hop
+Drake,One Dance,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,86,173.986,2016-05-06,0.792,0.625,0.0536,0.00776,0.0018,0.329,0.37,103.967,hip hop
+Drake,WAIT FOR U (feat. Drake & Tems),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,86,189.893,2022-04-29,0.463,0.642,0.34,0.314,0.0,0.0686,0.339,83.389,hip hop
+Drake,God's Plan,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,84,198.973,2018-06-29,0.754,0.449,0.109,0.0332,8.29e-05,0.552,0.357,77.169,hip hop
+Drake,Spin Bout U,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,83,214.588,2022-11-04,0.773,0.701,0.0512,0.01,0.0,0.163,0.203,129.963,hip hop
+Drake,Passionfruit,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,83,298.94,2017-03-18,0.809,0.463,0.0396,0.256,0.085,0.109,0.364,111.98,hip hop
+Drake,Knife Talk (with 21 Savage ft. Project Pat),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,242.965,2021-09-03,0.849,0.424,0.324,0.0635,0.0,0.0834,0.153,145.887,hip hop
+Drake,Fair Trade (with Travis Scott),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,291.175,2021-09-03,0.666,0.465,0.26,0.0503,0.0,0.215,0.292,167.937,hip hop
+Drake,Wants and Needs (feat. Lil Baby),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",73598547,82,192.956,2021-03-05,0.578,0.449,0.286,0.0618,2.17e-06,0.119,0.1,136.006,hip hop
+21 Savage,Creepin' (with The Weeknd & 21 Savage),"['atl hip hop', 'rap']",13221106,96,221.52,2022-12-02,0.715,0.62,0.0484,0.417,0.0,0.0822,0.172,97.95,hip hop
+21 Savage,Rich Flex,"['atl hip hop', 'rap']",13221106,91,239.359,2022-11-04,0.561,0.52,0.244,0.0503,1.86e-06,0.355,0.424,153.15,hip hop
+21 Savage,Jimmy Cooks (feat. 21 Savage),"['atl hip hop', 'rap']",13221106,87,218.364,2022-06-17,0.529,0.673,0.175,0.000307,2.41e-06,0.093,0.366,165.921,hip hop
+21 Savage,Glock In My Lap,"['atl hip hop', 'rap']",13221106,86,193.591,2020-10-02,0.847,0.733,0.16,0.00574,1.04e-05,0.151,0.202,130.029,hip hop
+21 Savage,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"['atl hip hop', 'rap']",13221106,84,207.306,2022-12-02,0.671,0.658,0.309,0.189,8.66e-05,0.147,0.257,87.933,hip hop
+21 Savage,Spin Bout U,"['atl hip hop', 'rap']",13221106,83,214.588,2022-11-04,0.773,0.701,0.0512,0.01,0.0,0.163,0.203,129.963,hip hop
+21 Savage,Knife Talk (with 21 Savage ft. Project Pat),"['atl hip hop', 'rap']",13221106,82,242.965,2021-09-03,0.849,0.424,0.324,0.0635,0.0,0.0834,0.153,145.887,hip hop
+21 Savage,a lot,"['atl hip hop', 'rap']",13221106,81,288.624,2018-12-21,0.837,0.636,0.086,0.0395,0.00125,0.342,0.274,145.972,hip hop
+21 Savage,Runnin,"['atl hip hop', 'rap']",13221106,81,195.906,2020-10-02,0.819,0.626,0.202,0.00748,0.101,0.167,0.415,143.01,hip hop
+21 Savage,Pussy & Millions (feat. Travis Scott),"['atl hip hop', 'rap']",13221106,81,242.026,2022-11-04,0.749,0.63,0.116,0.0623,0.0,0.353,0.445,122.03,hip hop
+Future,Superhero (Heroes & Villains) [with Future & Chris Brown],"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,90,182.666,2022-12-02,0.526,0.606,0.259,0.152,2.36e-06,0.194,0.492,116.622,hip hop
+Future,WAIT FOR U (feat. Drake & Tems),"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,86,189.893,2022-04-29,0.463,0.642,0.34,0.314,0.0,0.0686,0.339,83.389,hip hop
+Future,Too Many Nights (feat. Don Toliver & with Future),"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,85,199.92,2022-12-02,0.684,0.671,0.0464,0.189,2.37e-05,0.122,0.156,88.048,hip hop
+Future,Private Landing (feat. Justin Bieber & Future),"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,84,238.253,2023-02-24,0.843,0.669,0.0639,0.0846,1.28e-05,0.105,0.435,136.979,hip hop
+Future,Mask Off,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,82,204.6,2017-06-30,0.833,0.434,0.431,0.0102,0.0219,0.165,0.281,150.062,hip hop
+Future,Solo,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,81,265.996,2017-07-27,0.784,0.486,0.0475,0.0538,0.497,0.101,0.0894,110.964,hip hop
+Future,PUFFIN ON ZOOTIEZ,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,80,172.933,2022-04-29,0.883,0.657,0.305,0.0603,0.0,0.128,0.284,124.992,hip hop
+Future,Life Is Good (feat. Drake),"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,72,237.918,2020-05-15,0.795,0.574,0.487,0.067,0.0,0.15,0.537,142.053,hip hop
+Future,Mbappé - Remix,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,75,237.344,2023-03-17,0.729,0.68,0.0762,0.219,0.0,0.246,0.504,130.019,hip hop
+Future,Turn On The Lights again.. (feat. Future),"['atl hip hop', 'rap', 'southern hip hop', 'trap']",13478719,63,267.946,2022-01-17,0.683,0.887,0.0497,0.0125,0.446,0.318,0.551,132.007,hip hop
+Kendrick Lamar,Money Trees,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,81,386.906,2012,0.716,0.531,0.122,0.0703,0.0,0.224,0.344,71.994,hip hop
+Kendrick Lamar,family ties (with Kendrick Lamar),"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,81,252.262,2021-09-10,0.711,0.611,0.33,0.00588,0.0,0.23,0.144,134.093,hip hop
+Kendrick Lamar,All The Stars (with SZA),"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,84,232.186,2018-02-09,0.698,0.633,0.0597,0.0605,0.000194,0.0926,0.552,96.924,hip hop
+Kendrick Lamar,HUMBLE.,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,84,177.0,2017-04-14,0.908,0.621,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,hip hop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,83,213.4,2017-04-14,0.8,0.585,0.0924,0.264,0.0,0.153,0.779,126.058,hip hop
+Kendrick Lamar,PRIDE.,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,82,275.253,2017-04-14,0.665,0.535,0.0572,0.0786,1.68e-05,0.154,0.37,138.842,hip hop
+Kendrick Lamar,Pray For Me,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,80,211.42,2021-02-05,0.732,0.678,0.0886,0.0867,2.41e-05,0.112,0.196,100.626,hip hop
+Kendrick Lamar,N95,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,80,195.95,2022-05-13,0.79,0.67,0.105,0.377,2.32e-06,0.119,0.408,139.956,hip hop
+Kendrick Lamar,Alright,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,80,219.333,2015-03-16,0.796,0.766,0.238,0.0742,0.0,0.0827,0.558,110.034,hip hop
+Kendrick Lamar,DNA.,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",23420782,80,185.946,2017-04-14,0.638,0.523,0.357,0.00454,0.0,0.0842,0.422,139.913,hip hop
+Lil Baby,Freestyle,"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,84,162.053,2017-12-01,0.877,0.517,0.0706,0.217,0.0,0.143,0.255,119.996,hip hop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,84,145.542,2018-10-05,0.897,0.662,0.292,0.0852,0.0,0.534,0.389,112.511,hip hop
+Lil Baby,Pure Cocaine,"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,82,154.023,2018-11-30,0.964,0.487,0.421,0.00127,6.57e-06,0.115,0.107,127.05,hip hop
+Lil Baby,Wants and Needs (feat. Lil Baby),"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,82,192.956,2021-03-05,0.578,0.449,0.286,0.0618,2.17e-06,0.119,0.1,136.006,hip hop
+Lil Baby,Yes Indeed,"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,82,142.273,2018-05-18,0.963,0.346,0.53,0.0355,0.0,0.108,0.562,119.957,hip hop
+Lil Baby,Low Down,"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,77,144.651,2020-05-01,0.962,0.619,0.405,0.0354,0.0,0.083,0.154,127.958,hip hop
+Lil Baby,Forever (feat. Fridayy),"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,77,167.977,2022-10-14,0.462,0.251,0.159,0.414,0.0,0.201,0.137,89.705,hip hop
+Lil Baby,Baby (Lil Baby feat. DaBaby),"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,76,142.417,2019-08-16,0.97,0.463,0.366,0.0957,0.0,0.151,0.46,108.003,hip hop
+Lil Baby,On Me,"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,77,135.959,2020-12-04,0.856,0.564,0.392,0.00327,0.0,0.134,0.483,77.972,hip hop
+Lil Baby,Girls Want Girls (with Lil Baby),"['atl hip hop', 'atl trap', 'rap', 'trap']",13565420,77,221.979,2021-09-03,0.767,0.438,0.29,0.181,0.0,0.142,0.381,86.975,hip hop
+J. Cole,No Role Modelz,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,89,292.799,2014-12-09,0.69,0.521,0.339,0.324,0.0,0.0534,0.494,100.028,hip hop
+J. Cole,on the street (with J. Cole),"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,89,214.701,2023-03-03,0.681,0.821,0.131,0.532,0.00111,0.0921,0.813,94.074,hip hop
+J. Cole,Wet Dreamz,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,84,239.266,2014-12-09,0.495,0.722,0.357,0.0697,0.0,0.113,0.539,175.627,hip hop
+J. Cole,MIDDLE CHILD,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,82,213.593,2019-01-23,0.837,0.364,0.276,0.149,0.0,0.271,0.463,123.984,hip hop
+J. Cole,Work Out,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,81,235.32,2011-09-27,0.831,0.427,0.106,0.0531,0.0,0.307,0.216,93.004,hip hop
+J. Cole,She Knows (feat. Amber Coffman & Cults),"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,79,296.52,2013-06-18,0.766,0.74,0.0807,0.0193,0.0784,0.229,0.183,118.008,hip hop
+J. Cole,m y . l i f e (with 21 Savage & Morray),"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,79,218.801,2021-05-14,0.597,0.587,0.137,0.0622,0.0,0.214,0.0753,140.021,hip hop
+J. Cole,Power Trip (feat. Miguel),"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,77,241.16,2013-06-18,0.667,0.608,0.216,0.324,0.000198,0.426,0.475,99.992,hip hop
+J. Cole,Love Yourz,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,77,211.496,2014-12-09,0.677,0.638,0.333,0.589,0.0,0.193,0.435,82.81,hip hop
+J. Cole,p r i d e . i s . t h e . d e v i l (with Lil Baby),"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",19669965,76,218.21,2021-05-14,0.861,0.656,0.425,0.104,0.0,0.0986,0.331,88.967,hip hop
+Eminem,Mockingbird,"['detroit hip hop', 'hip hop', 'rap']",68284329,91,250.76,2004-11-12,0.637,0.678,0.266,0.209,0.0,0.156,0.254,84.039,hip hop
+Eminem,Without Me,"['detroit hip hop', 'hip hop', 'rap']",68284329,88,290.32,2002-05-26,0.908,0.669,0.0738,0.00286,0.0,0.237,0.662,112.238,hip hop
+Eminem,The Real Slim Shady,"['detroit hip hop', 'hip hop', 'rap']",68284329,87,284.2,2000-05-23,0.949,0.661,0.0572,0.0302,0.0,0.0454,0.76,104.504,hip hop
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack","['detroit hip hop', 'hip hop', 'rap']",68284329,77,326.466,2005-12-06,0.692,0.744,0.257,0.00868,0.000423,0.359,0.0612,171.374,hip hop
+Eminem,Superman,"['detroit hip hop', 'hip hop', 'rap']",68284329,87,350.32,2002-05-26,0.802,0.755,0.0564,0.0215,0.0,0.295,0.58,130.027,hip hop
+Eminem,Till I Collapse,"['detroit hip hop', 'hip hop', 'rap']",68284329,85,297.786,2002-05-26,0.548,0.847,0.186,0.0622,0.0,0.0816,0.1,171.447,hip hop
+Eminem,Stan,"['detroit hip hop', 'hip hop', 'rap']",68284329,84,404.106,2000-05-23,0.78,0.768,0.238,0.0371,2.34e-06,0.518,0.507,80.063,hip hop
+Eminem,Love The Way You Lie,"['detroit hip hop', 'hip hop', 'rap']",68284329,83,263.373,2010-06-18,0.749,0.925,0.227,0.241,0.0,0.52,0.641,86.989,hip hop
+Eminem,Godzilla (feat. Juice WRLD),"['detroit hip hop', 'hip hop', 'rap']",68284329,83,210.8,2020-01-17,0.808,0.745,0.342,0.145,0.0,0.292,0.829,165.995,hip hop
+Eminem,Not Afraid,"['detroit hip hop', 'hip hop', 'rap']",68284329,80,248.133,2010-06-18,0.855,0.954,0.264,0.529,0.0,0.205,0.668,114.635,hip hop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),"['hip hop', 'rap']",10856850,85,180.386,2017-07-21,0.558,0.559,0.0959,0.371,7.49e-06,0.109,0.62,78.558,hip hop
+"Tyler, The Creator",NEW MAGIC WAND,"['hip hop', 'rap']",10856850,82,195.32,2019-05-17,0.621,0.73,0.107,0.0967,0.000131,0.673,0.464,139.566,hip hop
+"Tyler, The Creator",DOGTOOTH,"['hip hop', 'rap']",10856850,70,161.041,2023-03-31,0.706,0.648,0.324,0.505,0.0,0.215,0.802,77.533,hip hop
+"Tyler, The Creator",EARFQUAKE,"['hip hop', 'rap']",10856850,81,190.066,2019-05-17,0.554,0.498,0.0685,0.23,5.98e-06,0.795,0.413,79.635,hip hop
+"Tyler, The Creator",BEST INTEREST,"['hip hop', 'rap']",10856850,81,127.921,2020-01-25,0.596,0.575,0.0514,0.0861,0.000153,0.334,0.34,98.265,hip hop
+"Tyler, The Creator",ARE WE STILL FRIENDS?,"['hip hop', 'rap']",10856850,80,265.48,2019-05-17,0.216,0.497,0.0371,0.128,2.39e-06,0.111,0.313,187.308,hip hop
+"Tyler, The Creator",She,"['hip hop', 'rap']",10856850,75,253.386,2011-05-09,0.35,0.621,0.233,0.256,3.44e-05,0.613,0.459,83.375,hip hop
+"Tyler, The Creator","GONE, GONE / THANK YOU","['hip hop', 'rap']",10856850,77,375.386,2019-05-17,0.518,0.492,0.193,0.216,0.0012,0.146,0.471,78.848,hip hop
+"Tyler, The Creator",WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"['hip hop', 'rap']",10856850,76,121.572,2021-06-25,0.493,0.653,0.0466,0.269,0.0,0.511,0.852,142.347,hip hop
+"Tyler, The Creator",SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),"['hip hop', 'rap']",10856850,76,588.139,2021-06-25,0.468,0.652,0.0722,0.333,0.000318,0.55,0.39,140.223,hip hop
+$uicideboy$,"...And to Those I Love, Thanks for Sticking Around","['dark trap', 'new orleans rap', 'underground hip hop']",5337640,80,168.489,2020-02-14,0.792,0.511,0.0409,0.124,9.04e-05,0.14,0.111,113.983,hip hop
+$uicideboy$,Kill Yourself (Part III),"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,79,145.078,2015-09-21,0.753,0.68,0.0349,0.326,4.15e-05,0.423,0.192,105.977,hip hop
+$uicideboy$,Antarctica,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,79,126.85,2016-01-26,0.715,0.633,0.0804,0.553,4.45e-06,0.0905,0.319,105.945,hip hop
+$uicideboy$,Paris,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,77,111.02,2015-11-20,0.849,0.648,0.0835,0.0706,0.00636,0.0984,0.195,106.058,hip hop
+$uicideboy$,Big Shot Cream Soda,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,75,195.6,2023-02-15,0.878,0.714,0.239,0.0528,7.64e-06,0.143,0.636,150.029,hip hop
+$uicideboy$,1000 Blunts,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,76,175.476,2022-07-29,0.83,0.698,0.077,0.224,1.02e-06,0.191,0.595,132.99,hip hop
+$uicideboy$,For the Last Time,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,75,156.081,2017-09-05,0.844,0.533,0.552,0.0735,3.46e-06,0.0953,0.23,140.078,hip hop
+$uicideboy$,My Flaws Burn Through My Skin Like Demonic Flames from Hell,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,75,167.679,2015-08-01,0.78,0.748,0.0352,0.00448,0.000546,0.115,0.0663,125.98,hip hop
+$uicideboy$,Matte Black,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,75,238.145,2022-07-29,0.877,0.826,0.206,0.122,1.05e-05,0.104,0.814,75.003,hip hop
+$uicideboy$,Runnin' Thru the 7th with My Woadies,"['dark trap', 'new orleans rap', 'underground hip hop']",5337640,75,205.766,2015-09-15,0.686,0.621,0.187,0.0656,0.000221,0.139,0.187,112.082,hip hop
+Lil Wayne,Love Me,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,80,255.053,2013-01-01,0.669,0.634,0.0327,0.0125,0.0,0.0946,0.496,124.906,hip hop
+Lil Wayne,Lollipop,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,66,299.333,2008-01-01,0.832,0.43,0.0826,0.0606,0.00323,0.124,0.462,148.074,hip hop
+Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,75,243.49,2016-06-24,0.502,0.786,0.317,0.255,0.0,0.65,0.739,169.021,hip hop
+Lil Wayne,A Milli,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,67,221.813,2008-01-01,0.663,0.688,0.283,0.0391,0.00224,0.223,0.731,151.589,hip hop
+Lil Wayne,Forever,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,73,357.706,2009-05-15,0.457,0.906,0.342,0.249,0.0,0.182,0.54,104.02,hip hop
+Lil Wayne,6 Foot 7 Foot,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,73,248.586,2011-08-29,0.364,0.752,0.304,0.0007,0.0,0.318,0.606,79.119,hip hop
+Lil Wayne,Mirror,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,75,228.093,2011-08-29,0.328,0.622,0.0866,0.858,0.0,0.104,0.401,74.267,hip hop
+Lil Wayne,Gladiador - Remix,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,74,197.374,2023-03-17,0.584,0.787,0.146,0.203,0.0,0.251,0.765,153.992,hip hop
+Lil Wayne,Kant Nobody (feat. DMX),"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,42,180.359,2023-03-31,0.522,0.797,0.338,0.308,0.0,0.113,0.503,175.236,hip hop
+Lil Wayne,AIN'T GONNA ANSWER,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",13332783,72,187.453,2023-03-23,0.879,0.875,0.18,0.0808,0.0,0.327,0.763,95.021,hip hop
+XXXTENTACION,Revenge,"['emo rap', 'miami hip hop']",41021272,87,120.026,2017-08-25,0.746,0.251,0.259,0.782,0.00203,0.106,0.18,139.999,hip hop
+XXXTENTACION,Hope,"['emo rap', 'miami hip hop']",41021272,85,110.886,2018-03-16,0.592,0.457,0.0603,0.661,0.000331,0.146,0.225,146.04,hip hop
+XXXTENTACION,Everybody Dies In Their Nightmares,"['emo rap', 'miami hip hop']",41021272,83,95.466,2017-08-25,0.734,0.57,0.133,0.847,2.14e-05,0.112,0.689,129.953,hip hop
+XXXTENTACION,Jocelyn Flores,"['emo rap', 'miami hip hop']",41021272,83,119.133,2017-08-25,0.872,0.391,0.242,0.469,4.13e-06,0.297,0.437,134.021,hip hop
+XXXTENTACION,Moonlight,"['emo rap', 'miami hip hop']",41021272,82,135.09,2018-03-16,0.921,0.537,0.0804,0.556,0.00404,0.102,0.711,128.009,hip hop
+XXXTENTACION,SAD!,"['emo rap', 'miami hip hop']",41021272,82,166.605,2018-03-16,0.74,0.613,0.145,0.258,0.00372,0.123,0.473,75.023,hip hop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),"['emo rap', 'miami hip hop']",41021272,81,146.52,2017-08-25,0.797,0.533,0.0412,0.0172,0.000152,0.103,0.329,131.036,hip hop
+XXXTENTACION,Look At Me!,"['emo rap', 'miami hip hop']",41021272,81,126.345,2017-02-20,0.763,0.726,0.282,0.259,0.0,0.0976,0.349,139.059,hip hop
+XXXTENTACION,Falling Down - Bonus Track,"['emo rap', 'miami hip hop']",41021272,80,196.4,2018-11-09,0.669,0.574,0.0286,0.0175,0.00294,0.146,0.273,120.013,hip hop
+XXXTENTACION,changes,"['emo rap', 'miami hip hop']",41021272,78,121.886,2018-03-16,0.669,0.308,0.029,0.883,0.0,0.0984,0.52,64.934,hip hop
+Gunna,Drip Too Hard (Lil Baby & Gunna),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,84,145.542,2018-10-05,0.897,0.662,0.292,0.0852,0.0,0.534,0.389,112.511,hip hop
+Gunna,"Lemonade (feat. Gunna, Don Toliver & NAV)","['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,76,195.428,2020-08-28,0.8,0.658,0.079,0.25,0.0,0.111,0.462,140.042,hip hop
+Gunna,pushin P (feat. Young Thug),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,76,136.266,2022-01-13,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,77.502,hip hop
+Gunna,P power (feat. Drake),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,75,193.346,2022-01-13,0.828,0.591,0.109,0.0199,0.000323,0.361,0.202,119.251,hip hop
+Gunna,Drip or Drown,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,75,126.168,2017-11-30,0.952,0.478,0.361,0.774,0.0,0.112,0.568,118.008,hip hop
+Gunna,All The Money (with Gunna) [Bonus],"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,73,167.4,2022-12-02,0.837,0.58,0.0618,0.053,0.00276,0.699,0.262,111.981,hip hop
+Gunna,Banking On Me,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,73,200.0,2022-02-14,0.793,0.308,0.0466,0.613,1.68e-05,0.0953,0.46,135.143,hip hop
+Gunna,Solid (feat. Drake),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,72,215.693,2021-04-16,0.887,0.485,0.2,0.0392,0.0,0.141,0.328,125.987,hip hop
+Gunna,DOLLAZ ON MY HEAD (feat. Young Thug),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,72,197.76,2020-05-22,0.825,0.458,0.0577,0.114,0.0,0.102,0.161,145.115,hip hop
+Gunna,What Happened To Virgil (feat. Gunna),"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",5106608,72,181.393,2022-03-11,0.795,0.526,0.204,0.067,2e-06,0.134,0.194,140.037,hip hop
+Frank Ocean,Pink + White,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,86,184.516,2016-08-20,0.545,0.545,0.107,0.667,5.48e-05,0.417,0.549,159.94,hip hop
+Frank Ocean,Lost,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,84,234.093,2012-07-10,0.913,0.603,0.226,0.0272,0.000503,0.167,0.497,123.061,hip hop
+Frank Ocean,Novacane,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,80,302.346,2011-01-01,0.762,0.508,0.0919,0.0584,0.00126,0.16,0.37,93.51,hip hop
+Frank Ocean,Ivy,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,80,249.191,2016-08-20,0.575,0.386,0.037,0.785,0.000289,0.229,0.466,116.408,hip hop
+Frank Ocean,Nights,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,78,307.151,2016-08-20,0.457,0.551,0.167,0.427,1.15e-06,0.113,0.428,89.87,hip hop
+Frank Ocean,Thinkin Bout You,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,78,200.746,2012-07-10,0.721,0.339,0.0532,0.409,0.00153,0.0973,0.2,129.83,hip hop
+Frank Ocean,In My Room,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,77,133.68,2019-11-02,0.861,0.647,0.0675,0.594,0.661,0.114,0.67,158.037,hip hop
+Frank Ocean,Slide (feat. Frank Ocean & Migos),"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,72,230.813,2017-06-30,0.736,0.795,0.0545,0.498,1.21e-06,0.254,0.511,104.066,hip hop
+Frank Ocean,Chanel,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,77,210.285,2017-03-10,0.776,0.503,0.237,0.874,0.0,0.112,0.473,110.134,hip hop
+Frank Ocean,White Ferrari,"['hip hop', 'lgbtq+ hip hop', 'neo soul']",10839052,77,248.807,2016-08-20,0.501,0.0958,0.0433,0.77,0.0,0.298,0.204,108.741,hip hop
+Nicki Minaj,Red Ruby Da Sleeze,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,84,214.445,2023-03-03,0.696,0.733,0.256,0.115,0.0,0.111,0.292,98.355,hip hop
+Nicki Minaj,Super Freaky Girl,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,75,170.977,2022-08-26,0.951,0.878,0.211,0.0509,1.61e-05,0.321,0.923,133.014,hip hop
+Nicki Minaj,Starships,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,74,210.626,2011-01-01,0.747,0.716,0.075,0.135,0.0,0.251,0.751,125.008,hip hop
+Nicki Minaj,Tusa,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,74,201.92,2021-03-26,0.799,0.701,0.282,0.309,7.36e-05,0.0514,0.607,100.946,hip hop
+Nicki Minaj,Beauty And A Beat,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,57,226.613,2020-05-22,0.587,0.82,0.0668,0.0011,7.36e-06,0.131,0.578,127.976,hip hop
+Nicki Minaj,Bang Bang,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,78,199.386,2014-10-14,0.706,0.786,0.091,0.26,0.0,0.38,0.751,150.028,hip hop
+Nicki Minaj,Super Bass,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,79,200.013,2010-11-22,0.723,0.86,0.203,0.271,4.56e-06,0.598,0.667,126.979,hip hop
+Nicki Minaj,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,75,216.408,2017-02-23,0.696,0.817,0.109,0.075,0.0,0.187,0.782,98.064,hip hop
+Nicki Minaj,Only,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,71,312.026,2014-12-15,0.573,0.495,0.592,0.405,0.0,0.0969,0.255,179.196,hip hop
+Nicki Minaj,Tukoh Taka - Official FIFA Fan Festival™ Anthem,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",27784476,72,178.529,2022-11-18,0.963,0.905,0.117,0.654,0.0481,0.107,0.594,123.998,hip hop
+Playboi Carti,Sky,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,82,193.234,2020-12-25,0.785,0.903,0.21,0.258,0.0,0.169,0.565,139.98,hip hop
+Playboi Carti,Miss The Rage (feat. Playboi Carti),"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,74,236.883,2021-08-21,0.581,0.877,0.114,0.0151,0.0,0.826,0.353,77.006,hip hop
+Playboi Carti,Magnolia,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,79,181.812,2017-04-14,0.791,0.582,0.286,0.0114,0.0,0.35,0.443,162.991,hip hop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,78,153.8,2018-05-11,0.673,0.649,0.196,0.188,0.0,0.122,0.47,153.075,hip hop
+Playboi Carti,Vamp Anthem,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,78,124.093,2020-12-25,0.642,0.69,0.261,0.00599,1.3e-06,0.322,0.641,164.075,hip hop
+Playboi Carti,ILoveUIHateU,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,77,135.122,2020-12-25,0.684,0.693,0.0339,0.00534,0.0,0.506,0.108,134.988,hip hop
+Playboi Carti,Location,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,77,168.783,2017-04-14,0.717,0.79,0.2,0.33,0.000125,0.518,0.371,125.985,hip hop
+Playboi Carti,R.I.P.,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,77,192.026,2018-05-11,0.725,0.725,0.159,0.0119,0.0,0.086,0.515,140.003,hip hop
+Playboi Carti,Fell In Luv (feat. Bryson Tiller),"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,76,206.333,2018-05-11,0.657,0.668,0.136,0.0273,0.0,0.32,0.227,162.997,hip hop
+Playboi Carti,Long Time - Intro,"['atl hip hop', 'hip hop', 'plugg', 'pluggnb', 'rap']",7860864,74,211.773,2018-05-11,0.472,0.861,0.0447,0.283,0.0,0.83,0.358,144.077,hip hop
+Mac Miller,The Spins,"['hip hop', 'pittsburgh rap', 'rap']",8768734,72,195.873,2010-08-13,0.794,0.766,0.0377,0.0135,0.0,0.0785,0.55,127.006,hip hop
+Mac Miller,Love Lost,"['hip hop', 'pittsburgh rap', 'rap']",8768734,71,162.875,2022-07-22,0.735,0.812,0.151,0.528,0.0,0.186,0.584,109.829,hip hop
+Mac Miller,Self Care,"['hip hop', 'pittsburgh rap', 'rap']",8768734,78,345.133,2018-08-03,0.52,0.538,0.206,0.367,0.00187,0.119,0.177,141.894,hip hop
+Mac Miller,Small Worlds,"['hip hop', 'pittsburgh rap', 'rap']",8768734,78,271.733,2018-08-03,0.516,0.546,0.249,0.814,4.5e-06,0.0995,0.515,78.267,hip hop
+Mac Miller,Congratulations (feat. Bilal),"['hip hop', 'pittsburgh rap', 'rap']",8768734,78,256.426,2016-09-16,0.465,0.225,0.0455,0.948,0.00155,0.18,0.207,57.75,hip hop
+Mac Miller,Weekend (feat. Miguel),"['hip hop', 'pittsburgh rap', 'rap']",8768734,77,208.08,2015-09-18,0.843,0.435,0.178,0.47,0.0,0.147,0.19,120.058,hip hop
+Mac Miller,Good News,"['hip hop', 'pittsburgh rap', 'rap']",8768734,74,342.04,2020-01-17,0.794,0.32,0.173,0.853,0.134,0.112,0.241,174.088,hip hop
+Mac Miller,Blue World,"['hip hop', 'pittsburgh rap', 'rap']",8768734,74,209.44,2020-01-17,0.742,0.553,0.419,0.389,0.0,0.0694,0.508,84.931,hip hop
+Mac Miller,Come Back to Earth,"['hip hop', 'pittsburgh rap', 'rap']",8768734,74,161.84,2018-08-03,0.272,0.238,0.0349,0.89,0.00925,0.275,0.119,83.507,hip hop
+Mac Miller,Nikes on My Feet,"['hip hop', 'pittsburgh rap', 'rap']",8768734,64,164.631,2010-08-13,0.801,0.57,0.265,0.559,0.0,0.111,0.565,92.058,hip hop
+Young Thug,Trance (with Travis Scott & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,87,194.786,2022-12-02,0.571,0.549,0.404,0.18,0.0,0.168,0.447,119.497,hip hop
+Young Thug,Go Crazy,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,77,176.96,2020-05-08,0.755,0.578,0.145,0.316,0.0,0.25,0.581,94.148,hip hop
+Young Thug,Way 2 Sexy (with Future & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,77,257.604,2021-09-03,0.803,0.597,0.141,0.000619,4.5e-06,0.323,0.331,136.008,hip hop
+Young Thug,Metro Spider (with Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,75,174.56,2022-12-02,0.709,0.734,0.125,0.0411,0.0,0.346,0.245,143.087,hip hop
+Young Thug,Potion (with Dua Lipa & Young Thug),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,66,215.215,2022-08-05,0.824,0.697,0.0473,0.158,4.11e-05,0.0751,0.757,99.987,hip hop
+Young Thug,pick up the phone,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,69,252.262,2016-06-03,0.706,0.716,0.0768,0.115,0.0,0.316,0.459,136.904,hip hop
+Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,71,279.906,2019-12-20,0.845,0.631,0.216,0.188,0.0,0.0806,0.545,111.983,hip hop
+Young Thug,The London (feat. J. Cole & Travis Scott),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,67,200.186,2019-08-16,0.784,0.517,0.209,0.0249,1.44e-06,0.155,0.206,97.991,hip hop
+Young Thug,Solid (feat. Drake),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,72,215.693,2021-04-16,0.887,0.485,0.2,0.0392,0.0,0.141,0.328,125.987,hip hop
+Young Thug,Hot (feat. Gunna),"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",8126081,71,193.026,2019-08-16,0.855,0.651,0.235,0.063,0.0,0.0772,0.559,111.997,hip hop
+JAY-Z,Ni**as In Paris,"['east coast hip hop', 'hip hop', 'rap']",8254786,84,219.333,2011-08-08,0.789,0.858,0.311,0.127,0.0,0.349,0.775,140.022,hip hop
+JAY-Z,Empire State Of Mind,"['east coast hip hop', 'hip hop', 'rap']",8254786,82,276.92,2009-09-08,0.491,0.956,0.392,0.0295,0.0,0.46,0.811,173.585,hip hop
+JAY-Z,Run This Town,"['east coast hip hop', 'hip hop', 'rap']",8254786,81,267.52,2009-09-08,0.632,0.924,0.29,0.281,0.0,0.263,0.441,86.844,hip hop
+JAY-Z,Numb / Encore,"['east coast hip hop', 'hip hop', 'rap']",8254786,79,205.733,2004-11-30,0.687,0.793,0.166,0.0603,0.0,0.582,0.751,107.045,hip hop
+JAY-Z,Why I Love You,"['east coast hip hop', 'hip hop', 'rap']",8254786,76,201.373,2011-08-08,0.48,0.808,0.0423,0.0259,0.0,0.269,0.37,123.387,hip hop
+JAY-Z,No Church In The Wild,"['east coast hip hop', 'hip hop', 'rap']",8254786,74,272.506,2011-08-08,0.654,0.75,0.105,0.246,0.0178,0.167,0.557,92.78,hip hop
+JAY-Z,Gotta Have It,"['east coast hip hop', 'hip hop', 'rap']",8254786,72,140.746,2011-08-08,0.74,0.574,0.245,0.411,0.0,0.262,0.33,149.762,hip hop
+JAY-Z,4:44,"['east coast hip hop', 'hip hop', 'rap']",8254786,72,284.493,2017-07-07,0.261,0.852,0.158,0.139,4.26e-05,0.477,0.431,177.997,hip hop
+JAY-Z,Otis,"['east coast hip hop', 'hip hop', 'rap']",8254786,71,178.213,2011-08-08,0.754,0.631,0.307,0.552,0.0,0.5,0.432,94.577,hip hop
+JAY-Z,03' Bonnie & Clyde,"['east coast hip hop', 'hip hop', 'rap']",8254786,71,205.56,2002-11-12,0.759,0.678,0.314,0.23,0.0,0.15,0.327,89.64,hip hop
+Lil Durk,Laugh Now Cry Later (feat. Lil Durk),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,79,261.492,2020-08-14,0.761,0.518,0.134,0.244,3.47e-05,0.107,0.522,133.976,hip hop
+Lil Durk,Broadway Girls (feat. Morgan Wallen),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,71,185.6,2022-03-10,0.659,0.745,0.0347,0.0417,0.0,0.296,0.54,74.967,hip hop
+Lil Durk,Mad Max,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,75,153.6,2022-12-16,0.898,0.64,0.255,0.0212,0.0,0.0919,0.68,149.988,hip hop
+Lil Durk,3 Headed Goat (feat. Lil Baby & Polo G),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,75,169.531,2020-05-08,0.846,0.48,0.359,0.269,0.0,0.0989,0.419,143.029,hip hop
+Lil Durk,"Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)","['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,70,279.573,2021-12-03,0.748,0.713,0.355,0.00496,0.0,0.245,0.482,75.591,hip hop
+Lil Durk,Leave The Club (feat. Lil Durk & GloRilla),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,67,222.386,2023-02-24,0.499,0.734,0.0994,0.219,0.0,0.207,0.322,104.97,hip hop
+Lil Durk,Hanging With Wolves,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,72,205.893,2022-12-09,0.823,0.636,0.0612,0.0168,0.0,0.108,0.5,151.978,hip hop
+Lil Durk,What Happened To Virgil (feat. Gunna),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,72,181.393,2022-03-11,0.795,0.526,0.204,0.067,2e-06,0.134,0.194,140.037,hip hop
+Lil Durk,Hot Shit (feat. Ye & Lil Durk),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,71,211.649,2022-07-01,0.878,0.685,0.225,0.00152,0.0,0.0753,0.523,157.003,hip hop
+Lil Durk,Sharing Locations (feat. Lil Baby & Lil Durk),"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",5321927,64,161.052,2021-10-01,0.681,0.63,0.0385,0.00383,0.0,0.139,0.183,151.951,hip hop
+Kodak Black,Drowning (feat. Kodak Black),"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,78,209.269,2017-09-29,0.839,0.81,0.0568,0.501,0.0,0.117,0.814,129.014,hip hop
+Kodak Black,Wake Up in the Sky,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,71,203.161,2018-12-07,0.8,0.578,0.0485,0.00381,0.0,0.367,0.367,143.01,hip hop
+Kodak Black,Super Gremlin,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,200.547,2022-02-25,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,72.993,hip hop
+Kodak Black,ZEZE (feat. Travis Scott & Offset),"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,76,228.759,2018-12-14,0.861,0.603,0.176,0.0521,0.0,0.0924,0.504,98.043,hip hop
+Kodak Black,No Flockin',"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,75,165.29,2015-11-13,0.943,0.595,0.191,0.0673,0.0,0.0839,0.815,117.532,hip hop
+Kodak Black,Transportin',"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,169.344,2017-08-18,0.804,0.66,0.0726,0.0319,0.0,0.103,0.257,94.053,hip hop
+Kodak Black,King Snipe,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,214.593,2023-01-13,0.818,0.526,0.277,0.0103,0.0,0.146,0.531,125.061,hip hop
+Kodak Black,Roll in Peace (feat. XXXTENTACION),"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,213.132,2017-08-18,0.747,0.524,0.245,0.0306,0.0,0.2,0.363,140.053,hip hop
+Kodak Black,Love & War,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,239.146,2022-02-25,0.762,0.649,0.0527,0.58,1.7e-05,0.0971,0.501,145.09,hip hop
+Kodak Black,Silent Hill,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",9139427,73,220.779,2022-05-13,0.907,0.577,0.0767,0.438,3.19e-05,0.137,0.801,140.07,hip hop
+Brent Faiyaz,JACKIE BROWN,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,82,169.013,2022-07-08,0.726,0.353,0.105,0.65,0.002,0.224,0.503,137.66,hip hop
+Brent Faiyaz,ALL MINE,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,82,216.062,2022-07-08,0.617,0.378,0.0315,0.428,9.16e-05,0.11,0.22,141.967,hip hop
+Brent Faiyaz,Clouded,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,81,110.128,2020-02-07,0.583,0.344,0.0559,0.774,0.0,0.143,0.581,65.203,hip hop
+Brent Faiyaz,Trust,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,79,158.42,2018-10-19,0.764,0.394,0.152,0.231,9.37e-05,0.117,0.465,92.009,hip hop
+Brent Faiyaz,DEAD MAN WALKING,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,73,247.079,2022-07-08,0.51,0.272,0.0557,0.303,0.0,0.0958,0.435,143.984,hip hop
+Brent Faiyaz,Poison,"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,77,212.992,2016-08-03,0.689,0.394,0.065,0.711,0.000905,0.0859,0.382,117.489,hip hop
+Brent Faiyaz,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,76,588.139,2021-06-25,0.468,0.652,0.0722,0.333,0.000318,0.55,0.39,140.223,hip hop
+Brent Faiyaz,"GRAVITY (FEAT. TYLER, THE CREATOR)","['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,73,214.692,2022-07-08,0.541,0.619,0.254,0.167,0.00633,0.144,0.491,163.908,hip hop
+Brent Faiyaz,Rehab (Winter In Paris),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,75,180.303,2020-02-07,0.549,0.242,0.038,0.809,8.1e-05,0.127,0.286,144.211,hip hop
+Brent Faiyaz,lost souls (with Brent Faiyaz),"['dmv rap', 'hip hop', 'pop', 'r&b', 'rap']",3585537,74,269.727,2021-09-22,0.649,0.347,0.404,0.485,3.24e-05,0.154,0.176,169.994,hip hop
+Lil Peep,Star Shopping,"['emo rap', 'lgbtq+ hip hop']",9841604,85,142.0,2015,0.538,0.471,0.0955,0.0946,0.0185,0.116,0.307,93.07,hip hop
+Lil Peep,nuts,"['emo rap', 'lgbtq+ hip hop']",9841604,81,85.36,2022-12-02,0.51,0.739,0.0415,0.00872,0.0,0.111,0.148,62.007,hip hop
+Lil Peep,Falling Down - Bonus Track,"['emo rap', 'lgbtq+ hip hop']",9841604,80,196.4,2018-11-09,0.669,0.574,0.0286,0.0175,0.00294,0.146,0.273,120.013,hip hop
+Lil Peep,white tee,"['emo rap', 'lgbtq+ hip hop']",9841604,78,132.226,2016,0.8,0.526,0.0416,0.285,0.0,0.0717,0.729,149.991,hip hop
+Lil Peep,Save That Shit,"['emo rap', 'lgbtq+ hip hop']",9841604,77,231.546,2017-08-15,0.534,0.583,0.0288,0.0262,0.0,0.421,0.145,106.0,hip hop
+Lil Peep,your favorite dress,"['emo rap', 'lgbtq+ hip hop']",9841604,75,177.386,2021-07-02,0.494,0.628,0.0541,0.0814,0.0,0.111,0.101,129.966,hip hop
+Lil Peep,beamer boy,"['emo rap', 'lgbtq+ hip hop']",9841604,75,203.373,2017-06-08,0.743,0.731,0.103,0.0492,1.9e-05,0.226,0.337,123.989,hip hop
+Lil Peep,witchblades,"['emo rap', 'lgbtq+ hip hop']",9841604,75,149.36,2021-07-02,0.634,0.54,0.0777,0.0223,0.0,0.302,0.543,143.968,hip hop
+Lil Peep,ghost boy,"['emo rap', 'lgbtq+ hip hop']",9841604,73,130.973,2015-09-18,0.662,0.586,0.0251,0.0325,0.00418,0.153,0.0724,107.993,hip hop
+Lil Peep,Life is Beautiful,"['emo rap', 'lgbtq+ hip hop']",9841604,72,207.586,2018-11-09,0.533,0.638,0.0636,0.0385,0.000932,0.0758,0.324,135.056,hip hop
+A$AP Rocky,Praise The Lord (Da Shine) (feat. Skepta),"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,81,205.04,2018-05-25,0.854,0.569,0.106,0.0609,0.0816,0.1,0.294,80.015,hip hop
+A$AP Rocky,Sundress,"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,77,158.205,2018-11-20,0.721,0.707,0.0595,0.181,3.68e-06,0.143,0.743,125.005,hip hop
+A$AP Rocky,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)","['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,76,260.986,2015-05-26,0.394,0.661,0.192,0.00996,0.0,0.343,0.335,149.818,hip hop
+A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)","['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,75,233.786,2013,0.853,0.693,0.275,0.0239,0.0,0.11,0.662,95.967,hip hop
+A$AP Rocky,Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff),"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,74,189.426,2022-12-02,0.491,0.77,0.308,0.112,0.0,0.319,0.37,177.977,hip hop
+A$AP Rocky,Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit,"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,75,163.515,2022-11-18,0.803,0.889,0.0439,0.189,0.653,0.13,0.876,147.983,hip hop
+A$AP Rocky,L$D,"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,72,238.306,2015-05-26,0.598,0.252,0.0644,0.194,0.133,0.0992,0.0352,120.064,hip hop
+A$AP Rocky,WHARF TALK (feat. A$AP Rocky),"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,72,204.109,2023-03-31,0.788,0.744,0.069,0.189,5.74e-05,0.196,0.681,96.445,hip hop
+A$AP Rocky,Lord Pretty Flacko Jodye 2 (LPFJ2),"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,71,126.96,2015-05-26,0.485,0.72,0.127,0.0123,0.0,0.0546,0.0471,207.982,hip hop
+A$AP Rocky,Potato Salad,"['east coast hip hop', 'hip hop', 'rap', 'trap']",12038832,71,182.493,2018-09-28,0.538,0.612,0.424,0.308,0.0,0.213,0.684,168.197,hip hop
+Kid Cudi,Memories (feat. Kid Cudi),"['hip hop', 'ohio hip hop', 'rap']",6397571,51,209.226,2010-11-22,0.561,0.852,0.251,0.00145,5.92e-06,0.274,0.402,129.971,hip hop
+Kid Cudi,Pursuit Of Happiness (Nightmare),"['hip hop', 'ohio hip hop', 'rap']",6397571,70,295.293,2009-01-01,0.63,0.605,0.0414,0.484,9.29e-05,0.298,0.266,115.277,hip hop
+Kid Cudi,Day 'N' Nite (nightmare),"['hip hop', 'ohio hip hop', 'rap']",6397571,72,221.24,2009-01-01,0.881,0.441,0.0646,0.48,9.08e-06,0.119,0.804,138.014,hip hop
+Kid Cudi,Mr. Rager,"['hip hop', 'ohio hip hop', 'rap']",6397571,72,294.213,2010-01-01,0.675,0.734,0.0265,0.38,0.895,0.141,0.533,101.998,hip hop
+Kid Cudi,THE SCOTTS,"['hip hop', 'ohio hip hop', 'rap']",6397571,75,165.977,2020-04-24,0.716,0.537,0.0514,0.233,0.0,0.157,0.28,129.979,hip hop
+Kid Cudi,Pursuit Of Happiness - Extended Steve Aoki Remix,"['hip hop', 'ohio hip hop', 'rap']",6397571,74,373.626,2012-01-01,0.722,0.687,0.0556,0.00949,0.00413,0.0462,0.619,128.013,hip hop
+Kid Cudi,Soundtrack 2 My Life,"['hip hop', 'ohio hip hop', 'rap']",6397571,67,235.626,2009-01-01,0.464,0.754,0.128,0.465,1.57e-05,0.37,0.444,86.501,hip hop
+Kid Cudi,Tequila Shots,"['hip hop', 'ohio hip hop', 'rap']",6397571,71,193.293,2020-12-11,0.712,0.556,0.0531,0.084,5.04e-05,0.527,0.22,90.494,hip hop
+Kid Cudi,Erase Me - Main,"['hip hop', 'ohio hip hop', 'rap']",6397571,70,192.253,2010-11-09,0.687,0.631,0.129,0.063,0.0,0.108,0.853,186.071,hip hop
+Kid Cudi,Day 'N' Nite - Crookers Remix,"['hip hop', 'ohio hip hop', 'rap']",6397571,57,281.08,2009-01-01,0.751,0.641,0.0461,0.0299,0.0626,0.0557,0.965,129.993,hip hop
+NLE Choppa,SLUT ME OUT,['memphis hip hop'],5950613,82,123.672,2022-04-22,0.938,0.606,0.419,0.117,0.0,0.528,0.706,121.108,hip hop
+NLE Choppa,DO IT AGAIN (feat. 2Rare),['memphis hip hop'],5950613,78,213.206,2022-10-07,0.806,0.64,0.317,0.0864,0.0,0.201,0.716,160.054,hip hop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),['memphis hip hop'],5950613,74,173.288,2020-08-10,0.867,0.744,0.227,0.268,0.0,0.0713,0.645,84.005,hip hop
+NLE Choppa,Shotta Flow (feat. Blueface) [Remix],['memphis hip hop'],5950613,73,176.631,2019-12-23,0.894,0.511,0.421,0.0251,0.0,0.14,0.567,120.077,hip hop
+NLE Choppa,Capo,['memphis hip hop'],5950613,76,192.2,2022-01-13,0.614,0.953,0.0688,0.119,0.0,0.331,0.593,154.969,hip hop
+NLE Choppa,Camelot,['memphis hip hop'],5950613,73,148.759,2020-08-10,0.787,0.713,0.401,0.0849,0.0,0.717,0.761,175.046,hip hop
+NLE Choppa,AIN'T GONNA ANSWER,['memphis hip hop'],5950613,72,187.453,2023-03-23,0.879,0.875,0.18,0.0808,0.0,0.327,0.763,95.021,hip hop
+NLE Choppa,Self Esteem (featuring NLE Choppa),['memphis hip hop'],5950613,61,169.5,2023-02-10,0.366,0.699,0.0564,0.0135,0.0,0.135,0.062,97.201,hip hop
+NLE Choppa,Final Warning,['memphis hip hop'],5950613,70,156.894,2021-04-30,0.847,0.912,0.257,0.0781,0.0,0.142,0.88,81.486,hip hop
+NLE Choppa,23,['memphis hip hop'],5950613,70,260.53,2023-01-20,0.852,0.487,0.204,0.00424,2.18e-06,0.201,0.256,120.013,hip hop
+DaBaby,Levitating (feat. DaBaby),"['north carolina hip hop', 'rap', 'trap']",10670013,83,203.064,2020-03-27,0.702,0.825,0.0601,0.00883,0.0,0.0674,0.915,102.977,hip hop
+DaBaby,ROCKSTAR (feat. Roddy Ricch),"['north carolina hip hop', 'rap', 'trap']",10670013,78,181.733,2020-04-17,0.746,0.69,0.164,0.247,0.0,0.101,0.497,89.977,hip hop
+DaBaby,Baby (Lil Baby feat. DaBaby),"['north carolina hip hop', 'rap', 'trap']",10670013,76,142.417,2019-08-16,0.97,0.463,0.366,0.0957,0.0,0.151,0.46,108.003,hip hop
+DaBaby,BOP,"['north carolina hip hop', 'rap', 'trap']",10670013,75,159.714,2019-09-27,0.769,0.787,0.367,0.189,0.0,0.129,0.836,126.77,hip hop
+DaBaby,Ball If I Want To,"['north carolina hip hop', 'rap', 'trap']",10670013,71,112.546,2021-06-18,0.902,0.669,0.457,0.161,0.0,0.0728,0.628,139.949,hip hop
+DaBaby,Suge,"['north carolina hip hop', 'rap', 'trap']",10670013,70,163.32,2019-03-01,0.876,0.662,0.426,0.0608,0.0,0.127,0.844,75.445,hip hop
+DaBaby,Bestie,"['north carolina hip hop', 'rap', 'trap']",10670013,70,111.97,2022-03-04,0.807,0.625,0.351,0.0741,0.0,0.487,0.871,146.031,hip hop
+DaBaby,VIBEZ,"['north carolina hip hop', 'rap', 'trap']",10670013,69,144.935,2019-09-27,0.768,0.652,0.307,0.113,0.0,0.107,0.777,154.187,hip hop
+DaBaby,Masterpiece,"['north carolina hip hop', 'rap', 'trap']",10670013,69,181.714,2021-01-15,0.781,0.726,0.0836,0.0299,0.0,0.093,0.436,139.988,hip hop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),"['north carolina hip hop', 'rap', 'trap']",10670013,68,136.366,2019-09-27,0.816,0.582,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,hip hop
+Key Glock,Ambition For Cash,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,76,143.48,2021-11-05,0.841,0.732,0.19,0.0115,2.18e-05,0.136,0.576,149.012,hip hop
+Key Glock,Dirt,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,67,199.293,2023-02-24,0.784,0.477,0.0628,0.002,4.49e-06,0.285,0.257,124.988,hip hop
+Key Glock,Mr. Glock,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,71,146.88,2020-01-31,0.804,0.946,0.352,0.002,0.0,0.359,0.745,150.141,hip hop
+Key Glock,Gang Shit No Lame Shit,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,71,131.6,2018-11-23,0.828,0.434,0.301,0.0394,0.0,0.0806,0.38,115.071,hip hop
+Key Glock,Russian Cream,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,71,142.497,2018-02-02,0.867,0.774,0.315,0.11,0.0,0.157,0.549,130.007,hip hop
+Key Glock,Jigsaw,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,65,152.893,2022-11-16,0.755,0.839,0.0667,0.00485,0.0,0.303,0.262,160.023,hip hop
+Key Glock,Chromosomes,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,67,151.08,2023-02-24,0.941,0.577,0.139,0.0261,5.64e-06,0.191,0.494,126.959,hip hop
+Key Glock,Son Of A Gun,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,67,106.826,2020-05-22,0.766,0.907,0.0356,0.00496,0.119,0.25,0.303,130.01,hip hop
+Key Glock,Die Trying,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,67,153.106,2022-11-17,0.911,0.462,0.285,0.155,0.0,0.143,0.626,145.951,hip hop
+Key Glock,Work,"['hip hop', 'memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",1528255,64,142.973,2023-02-24,0.943,0.729,0.313,0.00543,0.0,0.126,0.845,134.021,hip hop
+NF,HOPE,"['hip hop', 'pop rap', 'rap']",8164551,83,264.473,2023-02-16,0.546,0.787,0.212,0.396,0.0,0.0619,0.497,100.559,hip hop
+NF,Let You Down,"['hip hop', 'pop rap', 'rap']",8164551,81,212.12,2017-10-06,0.662,0.714,0.121,0.312,0.0,0.179,0.464,147.997,hip hop
+NF,The Search,"['hip hop', 'pop rap', 'rap']",8164551,76,248.053,2019-07-26,0.789,0.789,0.298,0.598,0.0,0.099,0.37,119.95,hip hop
+NF,MOTTO,"['hip hop', 'pop rap', 'rap']",8164551,79,217.271,2023-03-09,0.685,0.882,0.296,0.082,0.0,0.286,0.715,80.283,hip hop
+NF,Lie,"['hip hop', 'pop rap', 'rap']",8164551,76,209.213,2017-10-06,0.513,0.661,0.24,0.161,0.0,0.246,0.179,94.791,hip hop
+NF,When I Grow Up,"['hip hop', 'pop rap', 'rap']",8164551,75,196.8,2019-07-26,0.817,0.814,0.185,0.32,0.0,0.152,0.247,109.994,hip hop
+NF,If You Want Love,"['hip hop', 'pop rap', 'rap']",8164551,75,199.386,2017-10-06,0.551,0.386,0.132,0.659,0.0,0.125,0.245,116.409,hip hop
+NF,The Search - Edit,"['hip hop', 'pop rap', 'rap']",8164551,73,197.694,2019-06-07,0.831,0.851,0.207,0.552,0.0,0.106,0.496,119.958,hip hop
+NF,Paralyzed,"['hip hop', 'pop rap', 'rap']",8164551,72,270.453,2015-03-31,0.51,0.643,0.0485,0.214,3.22e-06,0.101,0.0397,130.081,hip hop
+NF,CLOUDS,"['hip hop', 'pop rap', 'rap']",8164551,70,243.76,2021-03-26,0.788,0.652,0.405,0.373,0.0,0.755,0.812,128.108,hip hop
+Childish Gambino,Redbone,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,84,326.933,2016-12-02,0.745,0.353,0.0983,0.174,0.00662,0.118,0.598,160.111,hip hop
+Childish Gambino,Me and Your Mama,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,83,379.226,2016-12-02,0.545,0.442,0.0352,0.0104,0.0271,0.0664,0.242,118.073,hip hop
+Childish Gambino,Les,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,81,317.293,2011-11-15,0.541,0.674,0.0841,0.00649,9.76e-05,0.235,0.123,103.139,hip hop
+Childish Gambino,3005,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,78,234.215,2013-12-10,0.664,0.447,0.289,0.112,0.0,0.091,0.659,83.138,hip hop
+Childish Gambino,Heartbeat,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,76,269.84,2011-11-15,0.8,0.545,0.127,0.00369,0.000461,0.0445,0.294,119.954,hip hop
+Childish Gambino,III. Urn,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,73,73.386,2013-12-10,0.59,0.446,0.0731,0.621,0.00235,0.0731,0.399,140.081,hip hop
+Childish Gambino,Bonfire,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,72,192.946,2011-11-15,0.506,0.745,0.332,0.0594,0.0,0.373,0.284,161.798,hip hop
+Childish Gambino,This Is America,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,70,225.773,2018-05-06,0.854,0.463,0.137,0.117,0.0,0.354,0.549,120.024,hip hop
+Childish Gambino,Sober,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,71,252.013,2014-10-03,0.701,0.591,0.0301,0.0979,2.53e-05,0.551,0.423,98.056,hip hop
+Childish Gambino,IV. Sweatpants,"['atl hip hop', 'hip hop', 'pop', 'rap']",10661538,70,180.675,2013-12-10,0.712,0.463,0.143,0.152,0.0,0.642,0.593,80.029,hip hop
+Baby Keem,family ties (with Kendrick Lamar),"['hip hop', 'rap']",1399401,81,252.262,2021-09-10,0.711,0.611,0.33,0.00588,0.0,0.23,0.144,134.093,hip hop
+Baby Keem,HONEST,"['hip hop', 'rap']",1399401,81,172.672,2019-07-19,0.676,0.536,0.0432,0.403,3.37e-05,0.105,0.373,79.037,hip hop
+Baby Keem,ORANGE SODA,"['hip hop', 'rap']",1399401,80,129.882,2019-07-19,0.83,0.564,0.235,0.177,0.0,0.128,0.107,85.042,hip hop
+Baby Keem,16,"['hip hop', 'rap']",1399401,77,156.04,2021-09-10,0.701,0.782,0.138,0.0918,2.31e-06,0.124,0.57,94.03,hip hop
+Baby Keem,lost souls (with Brent Faiyaz),"['hip hop', 'rap']",1399401,74,269.727,2021-09-22,0.649,0.347,0.404,0.485,3.24e-05,0.154,0.176,169.994,hip hop
+Baby Keem,trademark usa,"['hip hop', 'rap']",1399401,72,270.67,2021-09-10,0.615,0.6,0.27,0.107,1.61e-06,0.283,0.0661,130.027,hip hop
+Baby Keem,vent,"['hip hop', 'rap']",1399401,70,136.572,2021-09-10,0.896,0.377,0.0935,0.0123,1.43e-06,0.115,0.255,113.886,hip hop
+Baby Keem,highway 95,"['hip hop', 'rap']",1399401,71,91.782,2022-10-28,0.77,0.836,0.065,0.0548,0.0,0.143,0.425,84.944,hip hop
+Baby Keem,Savior,"['hip hop', 'rap']",1399401,71,224.466,2022-05-13,0.605,0.692,0.446,0.495,0.0,0.303,0.685,124.84,hip hop
+Baby Keem,STATS,"['hip hop', 'rap']",1399401,70,169.828,2019-07-19,0.567,0.462,0.36,0.00192,3.57e-06,0.106,0.172,152.236,hip hop
+Moneybagg Yo,Run It Up (feat. Offset & Moneybagg Yo),"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,77,232.048,2021-04-02,0.88,0.575,0.163,0.415,0.0,0.109,0.671,120.031,hip hop
+Moneybagg Yo,Quickie,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,73,187.826,2022-12-08,0.87,0.506,0.432,0.0901,0.0,0.145,0.347,137.921,hip hop
+Moneybagg Yo,Time Today,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,70,136.899,2021-04-23,0.912,0.608,0.397,0.0458,0.0,0.248,0.327,136.994,hip hop
+Moneybagg Yo,On Wat U On (with GloRilla),"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,68,159.72,2023-01-12,0.894,0.528,0.466,0.0444,0.0,0.108,0.2,144.532,hip hop
+Moneybagg Yo,Blow,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,68,182.533,2022-09-22,0.815,0.742,0.245,0.0579,0.0,0.345,0.584,137.036,hip hop
+Moneybagg Yo,Love It Here,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,68,89.616,2021-04-23,0.786,0.438,0.391,0.279,0.0,0.105,0.154,85.924,hip hop
+Moneybagg Yo,Me Vs Me,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,67,183.318,2020-05-15,0.853,0.821,0.209,0.205,0.0,0.209,0.625,130.999,hip hop
+Moneybagg Yo,Wockesha,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,66,180.93,2021-04-23,0.582,0.537,0.619,0.129,0.0,0.0749,0.771,82.103,hip hop
+Moneybagg Yo,PTPOM 2.0,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,66,162.168,2022-02-25,0.85,0.559,0.346,0.075,0.0,0.225,0.479,165.968,hip hop
+Moneybagg Yo,See Wat I’m Sayin,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",3575818,66,146.732,2022-05-27,0.936,0.497,0.41,0.0324,0.0,0.111,0.364,138.016,hip hop
+The Kid LAROI,STAY (with Justin Bieber),"['australian hip hop', 'pop']",4457924,85,141.805,2021-07-27,0.591,0.764,0.0483,0.0383,0.0,0.103,0.478,169.928,hip hop
+The Kid LAROI,Love Again,"['australian hip hop', 'pop']",4457924,87,146.64,2023-01-27,0.662,0.398,0.0275,0.716,0.0,0.111,0.468,107.001,hip hop
+The Kid LAROI,Thousand Miles,"['australian hip hop', 'pop']",4457924,79,164.781,2022-04-22,0.376,0.657,0.0768,0.0858,0.0,0.0884,0.203,80.565,hip hop
+The Kid LAROI,WITHOUT YOU,"['australian hip hop', 'pop']",4457924,78,161.384,2021-07-27,0.662,0.413,0.0299,0.213,0.0,0.134,0.467,93.005,hip hop
+The Kid LAROI,I GUESS IT'S LOVE?,"['australian hip hop', 'pop']",4457924,76,137.725,2023-02-24,0.595,0.823,0.0566,0.0662,0.0,0.569,0.435,155.005,hip hop
+The Kid LAROI,Hate The Other Side (with Marshmello & The Kid Laroi),"['australian hip hop', 'pop']",4457924,74,160.212,2020-07-10,0.701,0.65,0.104,0.291,0.0,0.112,0.647,90.003,hip hop
+The Kid LAROI,GO (feat. Juice WRLD),"['australian hip hop', 'pop']",4457924,72,181.688,2021-07-27,0.487,0.74,0.0944,0.157,0.0,0.612,0.522,73.779,hip hop
+The Kid LAROI,WITHOUT YOU (with Miley Cyrus),"['australian hip hop', 'pop']",4457924,74,161.384,2021-04-30,0.655,0.469,0.0292,0.173,0.0,0.0956,0.467,92.56,hip hop
+The Kid LAROI,SO DONE,"['australian hip hop', 'pop']",4457924,74,126.521,2021-07-27,0.719,0.598,0.077,0.232,0.0,0.115,0.303,142.592,hip hop
+The Kid LAROI,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)","['australian hip hop', 'pop']",4457924,73,144.86,2021-07-27,0.721,0.632,0.0358,0.0693,0.0,0.291,0.296,92.057,hip hop
+Wiz Khalifa,"Young, Wild & Free (feat. Bruno Mars)","['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,68,207.346,2011-12-12,0.553,0.652,0.206,0.0897,0.0,0.111,0.551,94.505,hip hop
+Wiz Khalifa,See You Again (feat. Charlie Puth),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,81,229.525,2015,0.689,0.481,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,hip hop
+Wiz Khalifa,Black and Yellow,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,76,217.666,2011-03-29,0.684,0.834,0.0675,0.0646,0.0,0.271,0.538,164.02,hip hop
+Wiz Khalifa,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,75,243.49,2016-06-24,0.502,0.786,0.317,0.255,0.0,0.65,0.739,169.021,hip hop
+Wiz Khalifa,The Thrill,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,65,234.333,2020-11-11,0.817,0.775,0.108,0.277,0.0,0.108,0.806,126.984,hip hop
+Wiz Khalifa,We Own It (Fast & Furious),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,70,227.906,2013-01-01,0.563,0.902,0.402,0.0545,0.0,0.0524,0.559,171.999,hip hop
+Wiz Khalifa,Hopeless Romantic (feat. Swae Lee),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,66,226.742,2018-07-13,0.877,0.477,0.0587,0.307,0.0,0.0929,0.552,127.023,hip hop
+Wiz Khalifa,So High (feat. Ghost Loft),"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,66,249.287,2014-08-19,0.628,0.629,0.0485,0.118,0.0,0.102,0.3,157.99,hip hop
+Wiz Khalifa,No Sleep,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,65,191.32,2011-03-29,0.653,0.711,0.0623,0.109,0.0,0.443,0.769,160.048,hip hop
+Wiz Khalifa,We Dem Boyz,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",10970730,64,224.933,2014-08-19,0.717,0.862,0.054,0.00689,0.0,0.321,0.52,130.021,hip hop
+Ty Dolla $ign,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix","['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,80,242.983,2014-06-10,0.805,0.33,0.1,0.22,0.0,0.105,0.211,121.97,hip hop
+Ty Dolla $ign,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,76,121.572,2021-06-25,0.493,0.653,0.0466,0.269,0.0,0.511,0.852,142.347,hip hop
+Ty Dolla $ign,Nights Like This (feat. Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,76,201.787,2019-02-22,0.61,0.725,0.15,0.367,0.0,0.154,0.291,146.163,hip hop
+Ty Dolla $ign,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,75,216.408,2017-02-23,0.696,0.817,0.109,0.075,0.0,0.187,0.782,98.064,hip hop
+Ty Dolla $ign,Chosen (feat. Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,74,161.684,2020-12-04,0.571,0.767,0.287,0.336,0.0,0.0809,0.605,93.421,hip hop
+Ty Dolla $ign,OTW,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,72,263.013,2018-04-20,0.652,0.678,0.0541,0.183,3.26e-05,0.106,0.28,72.989,hip hop
+Ty Dolla $ign,Spicy (feat. Post Malone),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,71,143.375,2020-10-23,0.782,0.51,0.0419,0.143,0.0,0.115,0.118,99.993,hip hop
+Ty Dolla $ign,Scared of the Dark (feat. XXXTENTACION),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,68,233.0,2018-12-14,0.443,0.623,0.0718,0.0468,0.0,0.247,0.156,79.365,hip hop
+Ty Dolla $ign,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,66,199.427,2019-08-09,0.872,0.814,0.155,0.00485,1.96e-06,0.214,0.57,98.985,hip hop
+Ty Dolla $ign,My Friends (feat. Lil Durk),"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",4563545,65,158.167,2022-10-05,0.633,0.478,0.044,0.0558,0.0,0.202,0.441,169.961,hip hop
+50 Cent,In Da Club,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,76,193.466,2003-02-06,0.902,0.72,0.347,0.26,0.0,0.0749,0.805,90.059,hip hop
+50 Cent,Candy Shop,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,80,209.106,2005-03-03,0.614,0.574,0.466,0.0253,3.2e-05,0.38,0.755,125.173,hip hop
+50 Cent,P.I.M.P.,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,69,249.466,2003-02-06,0.7,0.758,0.342,0.0444,1.3e-05,0.0401,0.889,78.693,hip hop
+50 Cent,Many Men (Wish Death),"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,72,256.226,2003-02-06,0.653,0.826,0.354,0.0153,0.00146,0.131,0.416,108.52,hip hop
+50 Cent,21 Questions,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,74,224.426,2003-02-06,0.576,0.807,0.317,0.353,0.000363,0.0512,0.908,90.012,hip hop
+50 Cent,Just A Lil Bit,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,78,237.706,2005-03-03,0.489,0.692,0.41,0.0322,0.00608,0.315,0.527,96.946,hip hop
+50 Cent,Si Salimos,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,77,201.535,2023-03-17,0.669,0.788,0.166,0.163,0.0,0.0426,0.812,81.032,hip hop
+50 Cent,If I Can't,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,64,196.64,2003-02-06,0.892,0.631,0.302,0.244,0.0,0.0235,0.838,93.975,hip hop
+50 Cent,Disco Inferno,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,74,214.226,2005-03-03,0.925,0.659,0.231,0.206,7.88e-05,0.279,0.71,97.018,hip hop
+50 Cent,Best Friend - Remix,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",10627632,59,254.493,2006-01-01,0.545,0.64,0.308,0.368,0.0,0.111,0.574,181.733,hip hop
+Gorillaz,Tormenta (feat. Bad Bunny),['alternative hip hop'],10255091,89,193.463,2023-02-24,0.637,0.768,0.056,0.458,0.00192,0.378,0.297,94.982,hip hop
+Gorillaz,Feel Good Inc.,['alternative hip hop'],10255091,84,222.64,2005-05-23,0.818,0.705,0.177,0.00836,0.00233,0.613,0.772,138.559,hip hop
+Gorillaz,New Gold (feat. Tame Impala and Bootie Brown),['alternative hip hop'],10255091,73,215.149,2023-02-24,0.695,0.923,0.0522,0.0425,0.0469,0.116,0.551,108.014,hip hop
+Gorillaz,Clint Eastwood,['alternative hip hop'],10255091,71,340.92,2001,0.663,0.694,0.171,0.0253,0.0,0.0698,0.525,167.953,hip hop
+Gorillaz,Rhinestone Eyes,['alternative hip hop'],10255091,78,200.173,2010-03-03,0.676,0.703,0.0302,0.0869,0.000687,0.0463,0.852,92.761,hip hop
+Gorillaz,On Melancholy Hill,['alternative hip hop'],10255091,77,233.866,2010-03-03,0.689,0.739,0.026,1.51e-05,0.509,0.064,0.578,120.423,hip hop
+Gorillaz,Cracker Island (feat. Thundercat),['alternative hip hop'],10255091,68,213.75,2023-02-24,0.741,0.913,0.0465,0.00343,0.103,0.325,0.643,120.012,hip hop
+Gorillaz,DARE,['alternative hip hop'],10255091,75,244.999,2005-05-23,0.76,0.891,0.0372,0.0229,0.0869,0.298,0.966,120.264,hip hop
+Gorillaz,Silent Running (feat. Adeleye Omotayo),['alternative hip hop'],10255091,69,266.338,2023-02-24,0.659,0.901,0.0359,0.0614,9.17e-05,0.182,0.776,106.997,hip hop
+Gorillaz,Controllah (feat. MC Bin Laden),['alternative hip hop'],10255091,74,150.316,2023-02-27,0.777,0.895,0.0403,0.231,2.45e-06,0.209,0.715,104.968,hip hop
+Big Sean,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)","['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,76,223.413,2017-06-30,0.893,0.745,0.0571,0.0642,0.0,0.0943,0.872,101.018,hip hop
+Big Sean,Beware,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,72,235.186,2013-01-01,0.7,0.554,0.187,0.219,1.36e-06,0.419,0.0633,97.127,hip hop
+Big Sean,I Don't Fuck With You,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,74,284.386,2015-02-24,0.824,0.733,0.0613,0.0362,0.0,0.325,0.395,97.972,hip hop
+Big Sean,I Know,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,74,319.973,2015-02-24,0.733,0.334,0.0811,0.327,0.0,0.116,0.267,119.935,hip hop
+Big Sean,Wolves (feat. Post Malone),"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,73,199.758,2020-09-04,0.724,0.675,0.0867,0.0978,9.41e-06,0.351,0.325,160.048,hip hop
+Big Sean,Bounce Back,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,69,222.36,2017-02-03,0.78,0.575,0.139,0.106,0.0,0.129,0.273,81.502,hip hop
+Big Sean,Don't Like.1,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,63,283.653,2022-04-01,0.657,0.611,0.225,0.00937,0.0,0.146,0.616,132.062,hip hop
+Big Sean,"Palisades, CA","['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,56,194.453,2023-03-31,0.75,0.75,0.264,0.0924,0.000452,0.373,0.711,130.042,hip hop
+Big Sean,Anthem (with Big Sean & EST Gee) - Soundtrack Version,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,65,125.885,2023-03-03,0.62,0.742,0.253,0.175,0.0,0.231,0.41,94.591,hip hop
+Big Sean,Clique,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",10691315,65,293.613,2012-01-01,0.66,0.539,0.324,0.0534,0.0,0.222,0.307,109.318,hip hop
+Logic,1-800-273-8255,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,76,250.173,2017-05-05,0.62,0.574,0.0479,0.569,0.0,0.19,0.357,100.023,hip hop
+Logic,"Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)","['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,76,315.102,2023-02-24,0.655,0.881,0.431,0.626,0.0,0.125,0.651,92.118,hip hop
+Logic,Homicide (feat. Eminem),"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,73,245.386,2019-05-10,0.694,0.759,0.398,0.137,0.0,0.167,0.77,140.055,hip hop
+Logic,Ballin,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,69,166.08,2018-06-15,0.737,0.854,0.221,0.0475,0.0,0.0905,0.65,150.621,hip hop
+Logic,Everyday,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,67,204.746,2018-03-09,0.667,0.741,0.0378,0.0425,0.0,0.0761,0.422,149.908,hip hop
+Logic,Wake Up (feat. Lucy Rose),"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,64,178.181,2023-02-24,0.719,0.861,0.177,0.0679,0.0,0.185,0.581,131.966,hip hop
+Logic,Shimmy (feat. Joey Bada$$),"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,67,155.843,2023-02-24,0.762,0.681,0.285,0.147,0.0,0.149,0.433,154.089,hip hop
+Logic,Perfect,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,67,100.291,2020-07-24,0.769,0.829,0.0661,0.00948,6.65e-05,0.301,0.648,159.943,hip hop
+Logic,Lightsabers (feat. C Dot Castro),"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,65,290.844,2023-02-24,0.545,0.767,0.217,0.358,0.0,0.558,0.938,139.118,hip hop
+Logic,44 More,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5878013,66,188.6,2018-03-09,0.824,0.584,0.221,0.0718,0.0,0.106,0.219,139.965,hip hop
+Gucci Mane,Wake Up in the Sky,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,71,203.161,2018-12-07,0.8,0.578,0.0485,0.00381,0.0,0.367,0.367,143.01,hip hop
+Gucci Mane,King Snipe,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,73,214.593,2023-01-13,0.818,0.526,0.277,0.0103,0.0,0.146,0.531,125.061,hip hop
+Gucci Mane,I Get the Bag (feat. Migos),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,71,233.087,2017-10-13,0.89,0.633,0.168,0.0232,0.000343,0.0993,0.425,139.948,hip hop
+Gucci Mane,Rumors (feat. Lil Durk),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,61,185.855,2022-06-17,0.688,0.842,0.264,0.0499,0.0,0.241,0.416,159.897,hip hop
+Gucci Mane,Both (feat. Drake),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,68,190.311,2016-12-16,0.85,0.405,0.225,0.119,0.000118,0.0707,0.344,139.976,hip hop
+Gucci Mane,06 Gucci (feat. DaBaby & 21 Savage),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,64,178.95,2023-03-31,0.786,0.719,0.296,0.252,0.0,0.301,0.802,130.081,hip hop
+Gucci Mane,Champions,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,65,334.253,2016-06-10,0.692,0.774,0.0876,0.0623,0.0,0.873,0.349,134.952,hip hop
+Gucci Mane,Us vs. Them (feat Gucci Mane),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,55,216.0,2022-10-07,0.729,0.482,0.0806,0.00154,3.23e-06,0.161,0.292,150.004,hip hop
+Gucci Mane,We Steady Mobbin (feat. Lil Wayne),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,41,307.774,2015-12-11,0.67,0.706,0.255,0.0298,0.0,0.291,0.734,156.144,hip hop
+Gucci Mane,Trappin N Rappin (feat. Gucci Mane),"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4755491,63,177.983,2023-02-17,0.799,0.603,0.129,0.0368,0.0,0.188,0.282,124.054,hip hop
+Daddy Yankee,PANTIES Y BRASIERES,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,73,197.383,2023-01-24,0.758,0.888,0.0706,0.34,0.00139,0.144,0.408,107.039,hip hop
+Daddy Yankee,ULALA (OOH LA LA),"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,66,188.009,2023-03-23,0.872,0.681,0.11,0.0462,1.38e-05,0.129,0.481,96.986,hip hop
+Daddy Yankee,La Santa,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,82,206.42,2020-02-29,0.744,0.868,0.047,0.0326,0.0,0.0822,0.586,93.037,hip hop
+Daddy Yankee,Gasolina,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,81,192.6,2004-07-13,0.852,0.797,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,hip hop
+Daddy Yankee,Despacito,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,80,229.36,2019-02-01,0.655,0.797,0.153,0.198,0.0,0.067,0.839,177.928,hip hop
+Daddy Yankee,"Lo Que Pasó, Pasó","['latin hip hop', 'reggaeton', 'urbano latino']",32108156,80,210.933,2004-07-13,0.819,0.741,0.0412,0.104,0.0,0.283,0.84,97.014,hip hop
+Daddy Yankee,LA HORA Y EL DÍA,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,79,217.254,2023-02-16,0.806,0.83,0.0981,0.117,0.0,0.101,0.663,81.01,hip hop
+Daddy Yankee,Con Calma,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,78,193.226,2019-01-24,0.737,0.86,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,hip hop
+Daddy Yankee,Soltera - Remix,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,74,266.086,2019-10-25,0.795,0.783,0.0432,0.361,0.0,0.437,0.799,92.01,hip hop
+Daddy Yankee,X ÚLTIMA VEZ,"['latin hip hop', 'reggaeton', 'urbano latino']",32108156,78,192.477,2022-03-25,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,90.04,hip hop
+Bryson Tiller,Don't,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,83,198.293,2015-10-02,0.765,0.356,0.195,0.223,0.0,0.0963,0.189,96.991,hip hop
+Bryson Tiller,Exchange,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,78,194.613,2015-10-02,0.525,0.433,0.185,0.107,0.0,0.135,0.276,160.108,hip hop
+Bryson Tiller,Playing Games (with Bryson Tiller) - Extended Version,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,78,143.226,2019-10-04,0.726,0.408,0.0614,0.603,0.0,0.225,0.459,115.918,hip hop
+Bryson Tiller,Right My Wrongs,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,76,249.32,2015-10-02,0.543,0.449,0.0463,0.345,0.0,0.157,0.29,132.609,hip hop
+Bryson Tiller,Sorrows,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,74,193.702,2020-10-02,0.633,0.793,0.182,0.148,0.0,0.867,0.761,109.093,hip hop
+Bryson Tiller,We Might Even Be Falling In Love (Duet) - Spotify Singles,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,73,90.11,2023-02-14,0.731,0.423,0.0784,0.473,0.000413,0.129,0.78,76.964,hip hop
+Bryson Tiller,Playing Games (with Bryson Tiller) - Extended Version,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,46,143.226,2020-11-20,0.727,0.408,0.0622,0.603,0.0,0.225,0.458,115.921,hip hop
+Bryson Tiller,What Would You Do?,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,70,174.215,2022-03-18,0.687,0.895,0.0474,0.149,0.00592,0.121,0.686,124.041,hip hop
+Bryson Tiller,Let Em' Know,"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,69,261.88,2015-10-02,0.489,0.406,0.232,0.0336,0.0,0.344,0.178,110.551,hip hop
+Bryson Tiller,Outta Time (feat. Drake),"['kentucky hip hop', 'pop', 'r&b', 'rap', 'trap']",6758995,68,198.821,2020-10-02,0.714,0.582,0.0808,0.0129,0.0,0.0774,0.338,92.819,hip hop
+Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,79,212.352,2021-09-17,0.741,0.691,0.0672,0.0221,0.0,0.0476,0.892,150.087,hip hop
+Jack Harlow,First Class,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,82,173.947,2022-05-06,0.902,0.582,0.109,0.111,3.18e-06,0.111,0.332,107.005,hip hop
+Jack Harlow,Tyler Herro,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,74,156.578,2020-12-11,0.792,0.793,0.0841,0.0872,0.0,0.22,0.775,123.031,hip hop
+Jack Harlow,"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track","['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,68,227.478,2020-12-11,0.904,0.723,0.26,0.0631,0.0,0.185,0.835,145.013,hip hop
+Jack Harlow,WHATS POPPIN,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,76,139.741,2020-03-13,0.923,0.604,0.245,0.017,0.0,0.272,0.826,145.062,hip hop
+Jack Harlow,Dua Lipa,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,74,135.053,2022-05-06,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,158.022,hip hop
+Jack Harlow,Nail Tech,"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,66,206.385,2022-05-06,0.677,0.557,0.0694,0.00508,8.36e-06,0.0984,0.1,150.127,hip hop
+Jack Harlow,Churchill Downs (feat. Drake),"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,72,309.327,2022-05-06,0.71,0.522,0.36,0.615,0.0,0.11,0.37,96.448,hip hop
+Jack Harlow,I WANNA SEE SOME ASS (feat. jetsonmade),"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,71,125.302,2020-03-13,0.899,0.691,0.0497,0.18,0.000451,0.135,0.865,107.951,hip hop
+Jack Harlow,Already Best Friends (feat. Chris Brown),"['deep underground hip hop', 'kentucky hip hop', 'pop', 'rap']",2832799,70,197.031,2020-12-11,0.873,0.575,0.0702,0.0891,0.0,0.108,0.872,103.005,hip hop
+Lil Yachty,Poland,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,75,83.2,2022-10-11,0.695,0.555,0.0509,0.141,0.826,0.11,0.26,150.024,hip hop
+Lil Yachty,drive ME crazy!,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,75,229.804,2023-01-27,0.492,0.807,0.0854,0.205,0.00275,0.384,0.477,107.087,hip hop
+Lil Yachty,NBAYOUNGBOAT,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,71,139.845,2018-03-09,0.769,0.807,0.306,0.0515,0.0,0.111,0.364,82.422,hip hop
+Lil Yachty,Yacht Club (feat. Juice WRLD),"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,71,166.343,2018-10-19,0.721,0.508,0.394,0.317,0.0,0.153,0.457,159.911,hip hop
+Lil Yachty,the BLACK seminole.,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,69,411.912,2023-01-27,0.302,0.557,0.0326,0.063,0.344,0.118,0.103,113.563,hip hop
+Lil Yachty,Coffin,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,67,89.535,2020-11-27,0.92,0.547,0.272,0.0241,1.45e-06,0.0998,0.606,138.05,hip hop
+Lil Yachty,pRETTy,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,68,162.208,2023-01-27,0.44,0.661,0.124,0.418,0.00264,0.621,0.61,127.892,hip hop
+Lil Yachty,the ride-,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,67,190.581,2023-01-27,0.414,0.791,0.0661,0.381,0.00102,0.375,0.588,151.895,hip hop
+Lil Yachty,running out of time,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,67,269.244,2023-01-27,0.651,0.72,0.161,0.331,0.413,0.528,0.705,90.024,hip hop
+Lil Yachty,sAy sOMETHINg,"['atl hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",8882186,65,212.903,2023-01-27,0.593,0.648,0.142,0.0791,0.014,0.0887,0.472,154.027,hip hop
+Young Dolph,1 Scale (feat. G Herbo),"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,68,176.04,2020-08-14,0.878,0.635,0.24,0.0289,0.0,0.276,0.331,135.035,hip hop
+Young Dolph,Get Away,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,62,181.546,2022-12-16,0.843,0.626,0.0527,0.0403,8.78e-05,0.127,0.228,140.064,hip hop
+Young Dolph,Love For The Streets,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,67,186.2,2022-12-16,0.799,0.733,0.216,0.172,1.7e-05,0.332,0.753,146.051,hip hop
+Young Dolph,Major (feat. Key Glock),"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,67,195.546,2018-09-21,0.907,0.651,0.312,0.0111,0.000433,0.108,0.637,147.026,hip hop
+Young Dolph,100 Shots,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,67,264.818,2017-04-01,0.798,0.668,0.25,0.135,4.6e-06,0.0583,0.154,134.006,hip hop
+Young Dolph,Thats How,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,64,179.106,2022-12-16,0.852,0.648,0.0818,0.114,0.0,0.353,0.267,123.996,hip hop
+Young Dolph,To Be Honest,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,63,159.013,2020-08-14,0.794,0.718,0.126,0.0139,0.0,0.201,0.651,164.0,hip hop
+Young Dolph,No Sense (feat. Key Glock),"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,63,140.466,2020-08-14,0.945,0.662,0.24,0.0326,1.17e-05,0.124,0.782,124.01,hip hop
+Young Dolph,On the River (feat. Wiz Khalifa),"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,63,198.427,2017-02-03,0.865,0.39,0.127,0.473,0.0,0.0954,0.105,139.996,hip hop
+Young Dolph,I See $'s,"['gangster rap', 'hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2442091,62,159.04,2020-08-14,0.895,0.611,0.106,0.116,0.0,0.119,0.21,135.948,hip hop
+Quavo,HOTEL LOBBY (Unc & Phew),"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,78,142.657,2022-10-07,0.825,0.649,0.169,0.117,0.0,0.232,0.143,127.978,hip hop
+Quavo,Intentions,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,37,212.853,2020-08-07,0.814,0.551,0.0527,0.296,0.0,0.106,0.87,148.003,hip hop
+Quavo,Greatness,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,76,185.0,2023-02-24,0.825,0.718,0.0518,0.0732,0.000157,0.142,0.919,139.983,hip hop
+Quavo,Peso a Peso,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,76,217.954,2023-03-17,0.469,0.639,0.32,0.564,0.0,0.11,0.534,172.37,hip hop
+Quavo,To The Bone (feat. YoungBoy Never Broke Again),"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,73,283.196,2022-10-07,0.899,0.582,0.264,0.0395,0.0,0.1,0.505,149.973,hip hop
+Quavo,Nothing Changed,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,64,199.111,2022-10-07,0.876,0.551,0.0992,0.233,0.0,0.185,0.685,134.946,hip hop
+Quavo,HOTEL LOBBY (Unc & Phew) - A COLORS SHOW,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,70,165.58,2022-06-18,0.859,0.548,0.197,0.041,0.0,0.204,0.112,127.958,hip hop
+Quavo,No Brainer,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,65,260.0,2018-07-27,0.552,0.76,0.342,0.0733,0.0,0.0865,0.639,135.702,hip hop
+Quavo,Messy,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,65,177.395,2022-10-07,0.832,0.574,0.341,0.0741,0.0,0.109,0.464,152.919,hip hop
+Quavo,Champions,"['atl hip hop', 'melodic rap', 'rap', 'trap']",6466304,65,334.253,2016-06-10,0.692,0.774,0.0876,0.0623,0.0,0.873,0.349,134.952,hip hop
+Offset,Ric Flair Drip (with Metro Boomin),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,83,172.8,2017-10-30,0.88,0.428,0.206,0.149,5.05e-05,0.114,0.333,100.007,hip hop
+Offset,Run It Up (feat. Offset & Moneybagg Yo),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,77,232.048,2021-04-02,0.88,0.575,0.163,0.415,0.0,0.109,0.671,120.031,hip hop
+Offset,Ghostface Killers (feat. Travis Scott),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,71,268.933,2017-10-30,0.782,0.435,0.156,0.333,1.31e-05,0.342,0.242,82.996,hip hop
+Offset,Clout (feat. Cardi B),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,69,205.803,2019-02-22,0.919,0.622,0.0997,0.228,4.24e-06,0.122,0.424,140.022,hip hop
+Offset,Rap Saved Me (feat. Quavo),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,66,257.6,2017-10-30,0.845,0.399,0.312,0.00525,0.741,0.102,0.148,143.049,hip hop
+Offset,Violation Freestyle,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,65,104.863,2017-12-08,0.908,0.542,0.295,0.408,0.0,0.179,0.266,128.02,hip hop
+Offset,MOMMA,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,65,198.294,2023-03-03,0.833,0.472,0.0755,0.188,0.0125,0.194,0.0993,113.968,hip hop
+Offset,CODE (feat. Moneybagg Yo),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,64,192.427,2022-08-26,0.599,0.598,0.124,0.0502,5.01e-05,0.173,0.343,179.49,hip hop
+Offset,Legacy (feat. Travis Scott & 21 Savage),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,64,244.941,2019-02-22,0.844,0.513,0.335,0.178,0.0,0.0845,0.344,128.085,hip hop
+Offset,100 Racks (Offset feat. Playboi Carti),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",2695400,63,157.645,2019-08-16,0.939,0.632,0.137,0.0606,0.00136,0.101,0.364,133.979,hip hop
+The Notorious B.I.G.,Big Poppa - 2005 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,81,252.746,1994-09-13,0.78,0.575,0.273,0.43,0.0,0.143,0.773,84.492,hip hop
+The Notorious B.I.G.,Hypnotize - 2014 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,81,229.826,1997-03-04,0.901,0.697,0.28,0.145,0.0,0.287,0.67,93.941,hip hop
+The Notorious B.I.G.,Juicy - 2005 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,75,302.76,1994-09-13,0.889,0.818,0.253,0.47,0.0,0.179,0.782,96.063,hip hop
+The Notorious B.I.G.,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,74,257.399,1997-03-04,0.845,0.884,0.0759,0.0128,2.1e-06,0.203,0.904,104.536,hip hop
+The Notorious B.I.G.,Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,68,274.44,2007-03-05,0.711,0.871,0.294,0.398,1.69e-06,0.171,0.912,91.153,hip hop
+The Notorious B.I.G.,Notorious Thugs - 2014 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,68,366.88,1997-03-04,0.704,0.873,0.144,0.121,5.12e-06,0.24,0.742,154.914,hip hop
+The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster","['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,68,286.186,2005-12-13,0.833,0.628,0.141,0.0949,1.6e-06,0.282,0.645,106.328,hip hop
+The Notorious B.I.G.,Suicidal Thoughts - 2005 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,68,170.213,1994-09-13,0.604,0.501,0.425,0.466,9.09e-06,0.091,0.0956,78.61,hip hop
+The Notorious B.I.G.,One More Chance / Stay with Me - Remix; 2007 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,61,268.706,2021-03-01,0.755,0.681,0.217,0.149,0.0,0.127,0.704,90.969,hip hop
+The Notorious B.I.G.,Who Shot Ya? - 2005 Remaster,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",8711331,66,319.36,1994-09-13,0.831,0.682,0.238,0.256,0.0,0.494,0.6,91.771,hip hop
+Machine Gun Kelly,my ex's best friend (with blackbear),"['ohio hip hop', 'pop rap']",5021102,76,139.46,2020-09-25,0.731,0.675,0.0434,0.00473,0.0,0.141,0.298,124.939,hip hop
+Machine Gun Kelly,I Think I'm OKAY (with YUNGBLUD & Travis Barker),"['ohio hip hop', 'pop rap']",5021102,73,169.397,2019-07-05,0.628,0.744,0.0379,0.0257,0.0,0.313,0.277,119.921,hip hop
+Machine Gun Kelly,maybe (feat. Bring Me The Horizon),"['ohio hip hop', 'pop rap']",5021102,73,170.133,2022-03-25,0.601,0.92,0.0505,0.000735,0.0,0.0998,0.537,88.014,hip hop
+Machine Gun Kelly,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)","['ohio hip hop', 'pop rap']",5021102,73,144.86,2021-07-27,0.721,0.632,0.0358,0.0693,0.0,0.291,0.296,92.057,hip hop
+Machine Gun Kelly,forget me too (feat. Halsey),"['ohio hip hop', 'pop rap']",5021102,72,171.62,2020-09-25,0.654,0.875,0.0744,0.000417,0.0086,0.194,0.522,99.975,hip hop
+Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","['ohio hip hop', 'pop rap']",5021102,71,202.804,2017-11-18,0.653,0.718,0.213,0.00413,0.0,0.0537,0.216,82.034,hip hop
+Machine Gun Kelly,Bad Things (with Camila Cabello),"['ohio hip hop', 'pop rap']",5021102,71,239.293,2017-05-12,0.697,0.691,0.146,0.214,0.0,0.185,0.305,137.853,hip hop
+Machine Gun Kelly,bloody valentine,"['ohio hip hop', 'pop rap']",5021102,70,205.158,2020-09-25,0.533,0.858,0.0766,0.00021,0.0,0.148,0.506,160.057,hip hop
+Machine Gun Kelly,make up sex (feat. blackbear),"['ohio hip hop', 'pop rap']",5021102,68,122.57,2022-03-25,0.665,0.678,0.0315,0.00156,0.0,0.474,0.682,131.986,hip hop
+Machine Gun Kelly,drunk face,"['ohio hip hop', 'pop rap']",5021102,68,143.9,2020-09-25,0.691,0.77,0.0367,0.0282,0.0,0.497,0.344,90.024,hip hop
+Migos,Slide (feat. Frank Ocean & Migos),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,72,230.813,2017-06-30,0.736,0.795,0.0545,0.498,1.21e-06,0.254,0.511,104.066,hip hop
+Migos,Stir Fry,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,76,190.288,2018-01-26,0.817,0.816,0.269,0.00263,0.0,0.159,0.508,181.982,hip hop
+Migos,Pure Water (with Migos),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,75,192.47,2019-06-28,0.682,0.559,0.127,0.174,0.0,0.344,0.137,202.015,hip hop
+Migos,Walk It Talk It,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,75,276.147,2018-01-26,0.907,0.633,0.184,0.0876,2.6e-06,0.106,0.395,145.914,hip hop
+Migos,Bad and Boujee (feat. Lil Uzi Vert),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,74,343.15,2017-01-27,0.926,0.666,0.244,0.0611,0.0,0.123,0.168,127.079,hip hop
+Migos,I Get the Bag (feat. Migos),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,71,233.087,2017-10-13,0.89,0.633,0.168,0.0232,0.000343,0.0993,0.425,139.948,hip hop
+Migos,Need It (feat. YoungBoy Never Broke Again),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,66,195.68,2021-06-11,0.852,0.747,0.169,0.0311,0.0,0.0789,0.898,148.005,hip hop
+Migos,MotorSport,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,71,303.076,2018-01-26,0.904,0.518,0.183,0.0305,0.0,0.325,0.188,137.996,hip hop
+Migos,Narcos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,70,255.378,2018-01-26,0.936,0.585,0.125,0.0142,0.0,0.132,0.242,124.991,hip hop
+Migos,Slippery (feat. Gucci Mane),"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",13062255,69,304.041,2017-01-27,0.92,0.675,0.263,0.307,0.0,0.104,0.749,141.967,hip hop
+Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)","['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,68,207.346,2011-12-12,0.553,0.652,0.206,0.0897,0.0,0.111,0.551,94.505,hip hop
+Snoop Dogg,Bad Decisions (with BTS & Snoop Dogg),"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,79,172.714,2022-08-05,0.762,0.861,0.0955,0.0185,0.0,0.264,0.955,120.048,hip hop
+Snoop Dogg,"Nuthin' But A ""G"" Thang","['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,78,237.573,1992-12-15,0.669,0.821,0.29,0.00182,0.0,0.147,0.684,94.895,hip hop
+Snoop Dogg,Drop It Like It's Hot,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,76,266.066,2004-01-01,0.888,0.632,0.219,0.19,0.0,0.101,0.662,91.979,hip hop
+Snoop Dogg,Gin and Juice,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,72,211.866,1993-11-23,0.603,0.762,0.285,0.0953,1.53e-05,0.478,0.379,94.726,hip hop
+Snoop Dogg,Beautiful,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,66,298.306,2002-01-01,0.907,0.695,0.135,0.246,0.0,0.0808,0.961,101.007,hip hop
+Snoop Dogg,Who Am I (What’s My Name)?,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,69,246.2,1993-11-23,0.734,0.735,0.065,0.000813,3.25e-05,0.559,0.729,96.806,hip hop
+Snoop Dogg,From The D 2 The LBC (with Snoop Dogg),"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,60,213.745,2022-08-05,0.718,0.768,0.25,0.0988,0.0,0.0957,0.591,164.038,hip hop
+Snoop Dogg,Sweat - Remix,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,69,195.986,2011-01-01,0.813,0.732,0.03,0.0597,0.00137,0.0826,0.731,130.02,hip hop
+Snoop Dogg,"That's My N**** (with Meek Mill, YG & Snoop Dogg)","['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",9476101,68,199.746,2017-12-15,0.723,0.732,0.0864,0.11,0.0,0.484,0.503,104.991,hip hop
